@@ -47,3 +47,6 @@ dg-publish: true
 | [[Bolints]]          | 780AB                                                                                      | 120                       |                         | 3                     |          | Y        | blend                                                                             |
 | [[Zamantu]]          | 780AB                                                                                      | 120                       |                         | 1                     |          | Y        | poly                                                                              
 
+^e0ae2c
+
+`dice: [[Races#^e0ae2c]]`
