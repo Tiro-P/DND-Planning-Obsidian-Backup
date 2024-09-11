@@ -51,6 +51,9 @@ quickshare-url: "https://noteshare.space/note/cm0bmlsjo1103001mwdbgi9vl5#fTe4GKt
 | [[Anuke]]            | 780AB                                                                                      | 120                       | 10                      | 1                     |          | Y        | n/a                                                                               |
 | [[Bolints]]          | 780AB                                                                                      | 120                       |                         | 3                     |          | Y        | blend                                                                             |
 | [[Zamantu]]          | 780AB                                                                                      | 120                       |                         | 1                     |          | Y        | poly                                                                              |
+
+^9a0e7f
+
 ^race
  
-`dice: [[Races^race]]`
+`dice: [[Races#^9a0e7f]]`
