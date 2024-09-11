@@ -1,7 +1,5 @@
 ---
 dg-publish: true
-quickshare-date: 2024-08-24 00:38:45
-quickshare-url: "https://noteshare.space/note/cm07rrwnq435501mwzvn9iuxb#0TKKleLJVS31GGCY5bMKtwcpohbgdors6QueYg+wj0A"
 type: Location
 subType: City
 creator:
@@ -10,8 +8,6 @@ biome: "[[Virullen]]"
 isolation: Hi
 risk: Med
 tags:
-  - city
-  - capital
   - port
   - "#city"
   - "#capital"
