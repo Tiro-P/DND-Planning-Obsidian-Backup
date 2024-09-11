@@ -5,7 +5,7 @@ dg-publish: true
  
 ```dataview
 TABLE Climate, subType, creator   
-from "Atlas/Biomes"
+from "Synching/Atlas/Biomes"
 Sort climate
 
 

@@ -17,5 +17,5 @@ Once a year [[Astarte]] hides the stars for a week to draw new constellations of
 	- [[Mount Cosmalia]] and particularly [[Celestia]] are where the celebrations are most intense
 - Celebrations/Impacts:
 	- a week long festival for the starborn
-## Threads
+## Threads 
 - 
