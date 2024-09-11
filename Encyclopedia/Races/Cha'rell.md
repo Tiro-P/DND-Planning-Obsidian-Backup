@@ -40,7 +40,7 @@ tags:
 ## Threads
 - 
 ### Name Examples
-#Idkq
+#idktrent 
 #### First
 - [ ] 
 #### Last

@@ -23,7 +23,7 @@ Lived in the home tree since 100BB weren’t discovered till after the face of t
 	- Due to their association with [[The Hometree (biome)]] and [[Kreladi]] through the order of [[Bluetails & Glowtails]] the [[Fweedoon]] also trust the [[Euchari]]. 
 ## Description
 - Lifespan:
-	- 15 years #idkq
+	- 40 years old
 - Physical Description:
 	- The [[Euchari]] still look quite similar to the [[Akari]] but they have brown carapace and their claws are more fitted to sawing wood than ripping flesh
 - Temperament:
