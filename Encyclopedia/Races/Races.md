@@ -3,8 +3,6 @@ dg-publish: true
 ---
 # Races Overview
 
-
-
 | Race                 | Year<br>Made^[After the year 700AB it is the year they were revealed to the greater world] | Race age<br>(as of 820AB) | Avg.Lifespan<br>(years) | Race<br>Spread<br>1-5 | Attitude | Playable | Religion                                                                          |
 | -------------------- | ------------------------------------------------------------------------------------------ | ------------------------- | ----------------------- | --------------------- | -------- | -------- | --------------------------------------------------------------------------------- |
 | [[Starborn]]         | 3400BB                                                                                     | 4220                      |                         | 5                     |          | Y        | [[Order of the Starstrider]]                                                      |
@@ -49,3 +47,6 @@ dg-publish: true
 | [[Bolints]]          | 780AB                                                                                      | 120                       |                         | 3                     |          | Y        | blend                                                                             |
 | [[Zamantu]]          | 780AB                                                                                      | 120                       |                         | 1                     |          | Y        | poly                                                                              
 
+^8556fd
+
+`dice: [[Races#^8556fd]]`
