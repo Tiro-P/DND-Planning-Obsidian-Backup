@@ -1,10 +1,6 @@
 ---
 dg-publish: true
-quickshare-date: 2024-08-12 13:25:31
-quickshare-url: "https://noteshare.space/note/clzrdvs502454601mwmbsmeutp#tugw2ITxdci7lFC05SwcSjVnzPaxrkqNmejWRzNjk1U"
 ---
-
-**
 # FIRST ERA
 ## 4900BB-3900BB
 [[The Heartlands]]

@@ -2,7 +2,8 @@
 dg-publish: true
 type: Race
 creator: 
-tags: []
+tags:
+  - race
 ---
 ## Society Info
 - Age of Race:
