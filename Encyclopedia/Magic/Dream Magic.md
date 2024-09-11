@@ -6,6 +6,8 @@ creator: Cujokra
 prevalance: Low
 tags:
   - "#magic"
+aliases:
+  - Nightmare Magic
 ---
 loosely defined magic of [[Cujokra]] has to do with visions and dreams
 ## Info
