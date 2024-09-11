@@ -1,10 +1,7 @@
 ---
 dg-publish: true
-quickshare-date: 2024-08-26 17:25:05
-quickshare-url: "https://noteshare.space/note/cm0bmlsjo1103001mwdbgi9vl5#fTe4GKtC59UrvpXWBibAmypnVjQ6m4joJYgObKUbpQc"
 ---
 # Races Overview
-
 
 
 
@@ -50,8 +47,5 @@ quickshare-url: "https://noteshare.space/note/cm0bmlsjo1103001mwdbgi9vl5#fTe4GKt
 | [[Mippieps]]         | 770AB                                                                                      | 120                       | 80                      | 4                     |          | Y        | poly? or blend                                                                    |
 | [[Anuke]]            | 780AB                                                                                      | 120                       | 10                      | 1                     |          | Y        | n/a                                                                               |
 | [[Bolints]]          | 780AB                                                                                      | 120                       |                         | 3                     |          | Y        | blend                                                                             |
-| [[Zamantu]]          | 780AB                                                                                      | 120                       |                         | 1                     |          | Y        | poly                                                                              |
+| [[Zamantu]]          | 780AB                                                                                      | 120                       |                         | 1                     |          | Y        | poly                                                                              
 
-^f5626b
- 
-`dice: [[Races#^f5626b]]
