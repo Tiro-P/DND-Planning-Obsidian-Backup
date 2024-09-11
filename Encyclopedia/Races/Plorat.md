@@ -2,8 +2,7 @@
 dg-publish: true
 type: Race
 creator: 
-tags:
-  - "#race"
+tags: []
 ---
 ## Society Info
 - Age of Race:
@@ -32,6 +31,6 @@ tags:
 - 
 ### Name Examples
 #### First
-- [ ] Yoinky…
+- [ ] 
 #### Last
-- [ ] Sploinky
+- [ ]
