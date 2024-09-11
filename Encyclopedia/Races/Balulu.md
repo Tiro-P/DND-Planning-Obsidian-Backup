@@ -23,7 +23,7 @@ tags:
 	- The Balulu are liked by most races being understanding and kind to a fault
 ## Description
 - Age:
-	- #idktrent 
+	- 100 years on average 130 years tops
 - Physical Description:
 	- Balulu are large very round bears that stand about 10-15 ft. tall, they are covered from head to toe in coarse fur and usually are sporting a very kindly glint in their eyes.
 - Temperament:
