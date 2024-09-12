@@ -3,7 +3,7 @@ dg-publish: true
 type: Avatar
 creator: Tataluk
 location: "[[The Hometree (avatar)]]"
-intent: 
+Alignment: 
 tags:
   - avatar
 ---

@@ -14,4 +14,3 @@ Pro: [[Nirnaeth]]
 
 Anti: Meddlers
 
-#plotter 

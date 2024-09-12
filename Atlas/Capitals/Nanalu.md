@@ -5,7 +5,7 @@ subType:
   - Lunaris
 creator:
   - Cujokra
-biome: "[[The Mistbelt]]"
+location: "[[The Mistbelt]]"
 isolation: Hi
 risk: Low
 tags:

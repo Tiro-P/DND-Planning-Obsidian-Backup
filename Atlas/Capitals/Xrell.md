@@ -5,7 +5,7 @@ subType:
   - Zharash
 creator:
   - Hysteria
-biome: "[[The Holy Sands]]"
+location: "[[The Holy Sands]]"
 isolation: Hi
 risk: Med
 tags:
@@ -16,7 +16,7 @@ Common Races: [[Zharash]]
 
 Groups:
 
-Export/import: #depth 
+Export/import: #idkmax
 
 why location: now underground due to [[The Glass Wars]] and lingering [[Akari]] threat
 

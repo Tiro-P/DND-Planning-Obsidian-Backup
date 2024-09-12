@@ -5,7 +5,7 @@ subType:
   - Strennik
 creator:
   - Hysteria
-biome: "[[Marshlands]]"
+location: "[[Marshlands]]"
 isolation: Med
 risk: Med
 tags:

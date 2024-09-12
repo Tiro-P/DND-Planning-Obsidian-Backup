@@ -12,7 +12,7 @@ tags:
 Docile, lawful good, and rare. omen of fortune and bountiful life
 One of the [[Six Sea Leviathans]]
 Draconic upper body, squid-like lower body
-shows up for successful sailors and trade capitals like [[Emerith]] or [[Kreladi]] #port 
+shows up for successful sailors and trade capitals like [[Emerith]] or [[Kreladi]] 
 
 
 ```ad-quote

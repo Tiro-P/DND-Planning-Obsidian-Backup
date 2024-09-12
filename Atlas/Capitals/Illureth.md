@@ -4,11 +4,10 @@ type: Location
 subType: City
 creator:
   - Astarte
-biome: "[[Virullen]]"
+location: "[[Virullen]]"
 isolation: Hi
 risk: Med
 tags:
-  - port
   - "#city"
   - "#capital"
 ---

@@ -5,13 +5,12 @@ subType:
   - Starborn
 creator:
   - Astarte
-biome: "[[The Rolling Plains]]"
+location: "[[The Rolling Plains]]"
 isolation: Low
 risk: Low
 tags:
   - city
   - capital
-  - port
 ---
 Common Races: [[Starborn]] [[Zharash]] [[Secondhewn]] [[Balulu]] +more
 

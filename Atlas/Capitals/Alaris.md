@@ -8,15 +8,12 @@ creator:
   - Hysteria
   - Kesk
   - Tataluk
-biome: "[[The Rolling Plains]]"
+location: "[[The Rolling Plains]]"
 isolation: Low
 risk: Low
 tags:
   - city
   - capital
-  - port
-  - "#city"
-  - "#capital"
 ---
 ## Info
 - Common Races:

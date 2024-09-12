@@ -6,8 +6,8 @@ Races: [[Jodin]] [[Cha'rell]] [[Myelos]] and more
 
 Locations: [[Illureth]] [[Jodath]] smaller labs all around
 
-Tools: #plotter [[Ichor]] biomodification, poisons, maybe pharmaceuticals for the common
+Tools: [[Ichor]] biomodification, poisons, maybe pharmaceuticals for the common
 
-Pro: #Evil 
+Pro: 
 
 Anti: [[The Blazing Blade]]

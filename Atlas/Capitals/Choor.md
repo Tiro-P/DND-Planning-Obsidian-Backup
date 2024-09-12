@@ -6,7 +6,7 @@ subType:
   - Potali
 creator:
   - Astarte
-biome: "[[The Mistbelt]]"
+location: "[[The Mistbelt]]"
 isolation: Med
 risk: Low
 tags:
@@ -18,7 +18,7 @@ Common Races: [[Polulu]] [[Potali]]
 
 Groups: [[Lodge Hierarchy]] 
 
-Export/import: #port snow, #Friendly  but not as much as [[Broof]]
+Export/import: Port city, snow, Very Friendly but not as much as [[Broof]] 
 
 why location: created in the cold to provide friends for the [[Elucian]]s but they were not too receptive 
 

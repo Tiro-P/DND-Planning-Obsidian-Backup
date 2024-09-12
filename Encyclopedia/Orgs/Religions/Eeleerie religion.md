@@ -1,7 +1,5 @@
 ---
 dg-publish: true
-quickshare-date: 2024-08-26 17:10:24
-quickshare-url: "https://noteshare.space/note/cm0bm2wlr1094101mwmfz2vd33#Lhg4igYrBzask/SpgA8haiZm88cT8gZqmAUNqjO/DmM"
 ---
 ## Overview
 - Heavily connected to the [[Order of the Starstrider]] but also has families of lesser spirits.

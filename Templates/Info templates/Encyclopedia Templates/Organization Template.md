@@ -1,7 +1,7 @@
 ---
 type: Organization
 subType: 
-intent: 
+Alignment: 
 creator: 
 tags:
   - organization

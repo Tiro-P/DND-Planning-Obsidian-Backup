@@ -4,9 +4,9 @@ dg-publish: true
 
 Races: [[Jodin]] and very few others
 
-Locations: [[Jodath]] [[Jelta]]
+Locations: [[Jodath]], [[Jelta]]
 
-Tools: [[Oceanic Sector]] [[Artifizing]]
+Tools: [[Jodath#The Oceanic Sector|The Oceanic Sector]] [[Artifizing]]
 
 Pro: [[United Alaris Trade Guild]] advancement at all costs
 

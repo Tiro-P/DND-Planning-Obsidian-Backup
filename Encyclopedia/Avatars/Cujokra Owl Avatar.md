@@ -1,12 +1,13 @@
 ---
 dg-publish: true
 type: Avatar
-creator: Cujokra
+creator:
+  - Cujokra
 location: "[[The Mistbelt]]"
-intent: neutral
+Alignment: neutral
 tags:
   - avatar
-  - depth
+  - idkmaia
 ---
 A mysterious avatar of [[Cujokra]]
 ## Info

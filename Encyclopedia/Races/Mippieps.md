@@ -1,7 +1,5 @@
 ---
 dg-publish: true
-quickshare-date: 2024-08-16 15:24:52
-quickshare-url: https://noteshare.space/note/clzx7wp8z3608101mwla36kjpa#VfVJijLTeFTqyIXI7QsLID4CEluDim4CqX5uEMEAl1c
 type: Race
 creator: 
 tags:

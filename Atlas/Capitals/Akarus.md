@@ -4,7 +4,7 @@ type: Location
 subType: City
 creator:
   - Kesk
-biome: "[[The Desolation]]"
+location: "[[The Desolation]]"
 isolation: Hi
 risk: Hi
 tags:

@@ -5,7 +5,7 @@ subType:
   - Neplora
 creator:
   - Muerin
-biome: "[[Shifting Reefs]]"
+location: "[[Shifting Reefs]]"
 isolation: Hi
 risk: Med
 tags:

@@ -8,8 +8,8 @@ Locations: [[Alaris]] and [[Illureth]] as well as many other towns
 
 Events: Day of light, Sun gazing to be like Ritus
 
-Tools: [[Ritus, the Blind]] strange parasite #plotter #Friendly 
+Tools: [[Ritus, the Blind]] strange parasite, faith, kindness and philanthropy
 
-Pro: #Evil [[Kesk]]
+Pro: [[Kesk]], spreading
 
 Anti: Free will

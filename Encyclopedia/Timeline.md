@@ -149,7 +149,7 @@ side order of [[Akari]] made by [[Akar, The Vast]] that would become the [[Eucha
 
 ## 200AB
 
-[[Fweedoon]] get [[Plantsinging]] and purified, [[Oceanic Sector]] and new [[Artifizing]] community. ([[Tataluk]])
+[[Fweedoon]] get [[Plantsinging]] and purified, [[Jodath#The Oceanic Sector|The Oceanic Sector]] and new [[Artifizing]] community. ([[Tataluk]])
 
 Makes [[Emerith]], [[Kreladi]], and [[Ruins of Lithrak|Lithrak]] along with the subrace, the [[Gralan]] ([[Astarte]])
 

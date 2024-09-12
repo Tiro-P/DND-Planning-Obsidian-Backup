@@ -4,13 +4,12 @@ type: Location
 subType: City
 creator:
   - Tataluk
-biome: "[[The Hometree (biome)]]"
+location: "[[The Hometree (biome)]]"
 isolation: Med
 risk: Low
 tags:
   - city
   - capital
-  - port
 ---
 ## Info
 - Common Races:

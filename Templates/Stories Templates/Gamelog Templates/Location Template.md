@@ -2,7 +2,7 @@
 type: Location
 subType: 
 creator: 
-biome: 
+location: 
 tags:
   - "#location"
 ---

@@ -8,8 +8,6 @@ Climate: Dry-Warm
 risk: Low
 tags:
   - biome
-  - "#city"
-  - "#capital"
   - "#biome"
 ---
 

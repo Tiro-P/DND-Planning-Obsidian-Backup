@@ -3,7 +3,7 @@ dg-publish: true
 type: Avatar
 creator: Astarte
 location: "[[Mount Cosmalia]]"
-intent: neutral
+Alignment: neutral
 tags:
   - avatar
 ---

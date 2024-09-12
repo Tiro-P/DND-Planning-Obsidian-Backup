@@ -5,7 +5,7 @@ subType:
   - Visorant
 creator:
   - Hysteria
-biome: "[[Gilded Steppes]]"
+location: "[[Gilded Steppes]]"
 isolation: Low
 risk: Low
 tags:

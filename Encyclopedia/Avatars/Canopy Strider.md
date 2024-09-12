@@ -3,7 +3,7 @@ dg-publish: true
 type: Avatar
 creator: Tataluk
 location: "[[The Bluewoods]]"
-intent: good
+Alignment: good
 tags:
   - avatar
 ---

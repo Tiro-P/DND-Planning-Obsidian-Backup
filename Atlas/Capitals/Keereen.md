@@ -5,7 +5,7 @@ subType:
   - Eeleerie
 creator:
   - Astarte
-biome: "[[Eastern Atolls]]"
+location: "[[Eastern Atolls]]"
 isolation: Hi
 risk: Med
 tags:

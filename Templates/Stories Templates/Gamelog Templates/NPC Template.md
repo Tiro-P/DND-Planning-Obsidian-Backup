@@ -4,7 +4,6 @@ subType:
 location: 
 race: 
 alignment: 
-connections: 
 tags:
   - npc
 ---

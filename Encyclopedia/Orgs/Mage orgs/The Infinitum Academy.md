@@ -2,7 +2,7 @@
 dg-publish: true
 type: Organization
 subType: 
-intent: good
+Alignment: good
 creator: Astarte
 tags:
   - organization

@@ -1,9 +1,8 @@
 ---
 dg-publish: true
-quickshare-date: 2024-07-31 15:24:59
-quickshare-url: https://noteshare.space/note/clzacv7ln326901mwbpzs7tez#kRoJN+rwPPzC2c3FCevTZyiykXwtjMteCflCp65T3vc
 type: Race
-creator: Kesk
+creator:
+  - Kesk
 tags:
   - "#race"
 ---
@@ -85,7 +84,7 @@ this race uses INT for Heal
 	- This seems to suggest a (likely vestigial) hivemind relationship in the species
 - When a Myelos dies it shrivels into a ball that looks like its made of tree roots, its common to carve this into a statue or turn it into jewelry
 ### Name Examples
-#idk
+#idkq
 #### First
 - [ ] 
 #### Last

@@ -6,7 +6,7 @@ Races: [[Secondhewn]]
 
 Locations [[Alaris]]
 
-Tools: [[Gem Magic]] #Trade #plotter 
+Tools: [[Gem Magic]], gambling, and scheming 
 
 Pro: [[Secondhewn]] [[Tastora]] [[Tataluk]] [[Alaris]]
 

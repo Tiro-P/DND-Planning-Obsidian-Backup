@@ -2,7 +2,7 @@
 dg-publish: true
 type: Organization
 subType: 
-intent: 
+Alignment: 
 creator: Tataluk
 tags:
   - organization

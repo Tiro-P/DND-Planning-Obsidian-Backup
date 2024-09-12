@@ -5,7 +5,7 @@ subType:
   - Vrash
 creator:
   - Astarte
-biome: "[[Karegath]]"
+location: "[[Karegath]]"
 isolation: Med
 risk: Med
 tags:
@@ -14,7 +14,7 @@ tags:
 ---
 Common Races: [[Vrash]]
 
-Groups: city is divided into fighting rings all with different pit bosses no higher government #depth 
+Groups: city is divided into fighting rings all with different pit bosses no higher government #idktrent 
 
 Export/import: Crime! maybe tropical fruit?
 

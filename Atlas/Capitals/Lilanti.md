@@ -5,13 +5,12 @@ subType:
   - Bolints
 creator:
   - Tataluk
-biome: "[[The Rolling Plains]]"
+location: "[[The Rolling Plains]]"
 isolation: Low
 risk: Low
 tags:
   - city
   - capital
-  - port
 ---
 Biome: [[The Bluewoods]] [[The Rolling Plains]]
 

@@ -4,7 +4,7 @@ dg-publish: true
 
 Races: [[Bolints]] [[T'keen]] [[Starborn]] &more!
 
-Locations: [[Alaris]] #port 
+Locations: [[Alaris]] many port cities that ship to Alaris as well
 
 Tools: mostly ships from [[The Hometree (biome)]]
 

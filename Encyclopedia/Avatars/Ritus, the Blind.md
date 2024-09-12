@@ -3,7 +3,7 @@ dg-publish: true
 type: Avatar
 creator: Kesk
 location: "[[Alaris]]"
-intent: Ill
+Alignment: Ill
 tags:
   - avatar
 ---

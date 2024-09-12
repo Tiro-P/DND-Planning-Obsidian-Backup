@@ -2,11 +2,10 @@
 dg-publish: true
 type: Race
 subType: 
-creator: Cujokra
-prevalance: Med
+creator:
+  - Cujokra
 tags:
   - "#race"
-  - isolationist
 ---
 ## World Info
 - Age of Race:

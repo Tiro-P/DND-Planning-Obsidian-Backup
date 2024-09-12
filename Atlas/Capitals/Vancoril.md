@@ -5,7 +5,7 @@ subType:
   - Elucian
 creator:
   - Hysteria
-biome: "[[Vanquor]]"
+location: "[[Vanquor]]"
 isolation: Hi
 risk: Hi
 tags:

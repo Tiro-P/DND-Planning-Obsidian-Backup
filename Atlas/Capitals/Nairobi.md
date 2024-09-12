@@ -5,7 +5,7 @@ subType:
   - Nirnaeth
 creator:
   - Cujokra
-biome: "[[Pillar Wastes]]"
+location: "[[Pillar Wastes]]"
 isolation: Med
 risk: Low
 tags:

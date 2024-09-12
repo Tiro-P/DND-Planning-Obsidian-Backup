@@ -1,12 +1,13 @@
 ---
 dg-publish: true
 type: Avatar
-creator: Cujokra
+creator:
+  - Cujokra
 location: "[[Southern Crypts]]"
-intent: 
+Alignment: 
 tags:
   - avatar
-  - depth
+  - idkmaia
 ---
 A strange avatar of [[Cujokra]] 
 ## Info

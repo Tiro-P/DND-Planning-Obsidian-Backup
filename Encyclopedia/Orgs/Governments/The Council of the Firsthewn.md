@@ -6,10 +6,10 @@ Races: [[Firsthewn]], to a lesser extent [[Secondhewn]] [[Mountain Beasts]]
 
 Locations:[[Tatalis]] [[The Heartlands]]
 
-Events:N/A maybe the return of a firsthewn who was out?
+Events: N/A maybe the return of a firsthewn who was out?
 
-Tools: [[Stonesinging]] [[Gem Magic]] #plotter 
+Tools: [[Stonesinging]], [[Gem Magic]], 15 true [[Swordsinging|Swordsingers]]
 
 Pro: [[Firsthewn]]
 
-Anti: [[Akari]] #Evil people in the [[The Heartlands]]
+Anti: [[Artifizing]], people in the [[The Heartlands]],

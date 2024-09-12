@@ -5,7 +5,7 @@ subType:
   - Balulu
 creator:
   - Astarte
-biome: "[[The Rolling Plains]]"
+location: "[[The Rolling Plains]]"
 isolation: Low
 risk: Low
 tags:

@@ -2,7 +2,7 @@
 dg-publish: true
 type: God
 subType: Primordial
-alignment: Neutral Good
+Alignment: Neutral Good
 tags:
   - "#god"
 ---

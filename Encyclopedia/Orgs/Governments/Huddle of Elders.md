@@ -6,7 +6,7 @@ Races: [[Balulu]]
 
 Locations: [[Broof]] [[The Rolling Plains]]
 
-Events: #depth 
+Events: #idktrent #idktiro 
 
 Tools: [[Empathy magic]]
 

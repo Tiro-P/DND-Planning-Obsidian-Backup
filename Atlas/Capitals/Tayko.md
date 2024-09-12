@@ -5,7 +5,7 @@ subType:
   - Felaris
 creator:
   - Tataluk
-biome: "[[Bamboo forest]]"
+location: "[[Bamboo forest]]"
 isolation: Hi
 risk: Low
 tags:
@@ -16,7 +16,7 @@ Common Races: [[Felaris]]
 
 Groups: 
 
-Export/import: not much maybe metal work pretty #isolationist
+Export/import: not much maybe metal work, pretty, Limited in connections due to [[The Heartlands]] cutting them off from the center of the continent
 
 why location: they've been safe and hidden in the [[Bamboo forest]] for as long as they've existed maybe some connection to [[Gem Magic]]
 

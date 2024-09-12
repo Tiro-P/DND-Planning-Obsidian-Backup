@@ -5,7 +5,7 @@ subType:
   - Starborn
 creator:
   - Astarte
-biome: "[[Mount Cosmalia]]"
+location: "[[Mount Cosmalia]]"
 isolation: Med
 risk: Low
 tags:

@@ -2,11 +2,10 @@
 dg-publish: true
 type: Ruin
 location: "[[The Blood Desert]]"
-state: Occupied
+state: Abandoned
 risk: Hi
 tags:
   - ruin
-  - port
 ---
 
 Common Races: [[Akari]] [[Starborn]] [[Blighted]]

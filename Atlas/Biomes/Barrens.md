@@ -10,7 +10,6 @@ risk: Med
 tags:
   - biome
   - "#biome"
-cannon:
 ---
 
 Arid wasteland on the east coast origin of the [[Eeleerie]] although they are now gone

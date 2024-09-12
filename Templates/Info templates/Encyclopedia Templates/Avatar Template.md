@@ -2,7 +2,7 @@
 type: Avatar
 creator: 
 location: 
-intent: 
+Alignment: 
 tags:
   - avatar
 ---

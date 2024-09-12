@@ -6,7 +6,7 @@ subType:
   - Gralan
 creator:
   - Astarte
-biome: "[[The Blood Desert]]"
+location: "[[The Blood Desert]]"
 isolation: Med
 risk: Med
 tags:

@@ -6,7 +6,7 @@ Races:???
 
 Locations: N/A
 
-Tools: #plotter 
+Tools:
 
 Pro:??? may work with the [[Neplora]]? another mere legend
 

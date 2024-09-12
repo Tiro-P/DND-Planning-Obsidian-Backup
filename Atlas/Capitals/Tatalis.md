@@ -4,7 +4,7 @@ type: Location
 subType: City
 creator:
   - Tataluk
-biome: "[[The Heartlands]]"
+location: "[[The Heartlands]]"
 isolation: Hi
 risk: Low
 tags:

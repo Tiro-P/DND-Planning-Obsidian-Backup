@@ -5,7 +5,7 @@ subType:
   - Bellavier
 creator:
   - Hysteria
-biome: "[[Isle of Kharth]]"
+location: "[[Isle of Kharth]]"
 isolation: Hi
 risk: Med
 tags:

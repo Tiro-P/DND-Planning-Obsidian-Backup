@@ -1,9 +1,10 @@
 ---
 dg-publish: true
 type: Avatar
-creator: Kesk
+creator:
+  - Kesk
 location: "[[The Desolation]]"
-intent: Ill
+Alignment: Evil
 tags:
   - avatar
 ---

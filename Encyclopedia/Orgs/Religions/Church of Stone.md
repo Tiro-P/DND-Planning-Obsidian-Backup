@@ -7,8 +7,8 @@ Locations: [[Tastora]] [[Alaris]] [[Lilanti]] many other cities
 
 Events: 
 
-Tools: charity, [[Gem Magic]] #Friendly 
+Tools: charity, [[Gem Magic]], friendly
 
-Pro: #good [[Tataluk]] 
+Pro: [[Tataluk]]  (although a misinterpretation of the God)
 
 Anti: [[Firsthewn]] gatekeepers

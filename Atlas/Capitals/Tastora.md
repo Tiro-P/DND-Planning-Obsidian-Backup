@@ -5,7 +5,7 @@ subType:
   - Secondhewn
 creator:
   - Tataluk
-biome: "[[Barrens]]"
+location: "[[Barrens]]"
 isolation: Med
 risk: Low
 tags:

@@ -8,10 +8,10 @@ Locations: [[Alaris]] [[Tastora]] are the main locations
 
 Events: [[Rewriting]]
 
-Tools: charity, the stars #Friendly [[Ethum]]
+Tools: charity, the stars, their welcoming nature  [[Ethum]]
 
-Pro: #good [[Astarte]] [[Onorel]] [[Mount Cosmalia]]
+Pro:  [[Astarte]] [[Onorel]] [[Mount Cosmalia]]
 
-Anti: [[Kesk]] [[Cujokra]]
+Anti: agents of [[Kesk]] or [[Cujokra]]
 
 Linked to: [[Eeleerie religion]]

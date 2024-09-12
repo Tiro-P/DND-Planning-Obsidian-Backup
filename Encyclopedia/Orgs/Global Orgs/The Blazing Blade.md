@@ -8,8 +8,8 @@ Locations: [[Celestia]]
 
 Tools: bounties and local authorities
 
-Pro: #good 
+Pro: order
 
-Anti:[[Akari]] #Evil [[Kogesh]]
+Anti:[[Akari]]  [[Kogesh]]
 
 Note, corrupt sometimes!

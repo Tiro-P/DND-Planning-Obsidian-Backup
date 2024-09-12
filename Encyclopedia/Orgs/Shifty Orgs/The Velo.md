@@ -6,7 +6,7 @@ Races: [[Myelos]] [[Cha'rell]] and others
 
 Locations: [[Illureth]] and all over
 
-Tools: #plotter 
+Tools: secrecy 
 
 Pro: 
 - leader of the Velo:[[Cuvir, The Keen]]
