@@ -9,7 +9,6 @@ risk: Low
 tags:
   - biome
   - "#biome"
-cannon:
 ---
 ## Terrain
 - Description:

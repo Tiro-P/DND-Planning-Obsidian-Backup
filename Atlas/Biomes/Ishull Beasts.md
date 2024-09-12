@@ -10,7 +10,6 @@ tags:
   - biome
   - "#port"
   - "#biome"
-cannon:
 ---
 ## Terrain
 - Description:

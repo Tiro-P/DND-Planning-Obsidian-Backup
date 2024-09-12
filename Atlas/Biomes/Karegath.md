@@ -10,7 +10,6 @@ Climate: Humid-Hot
 risk: Med
 tags:
   - biome
-cannon:
 ---
 ## Terrain
 - Description:

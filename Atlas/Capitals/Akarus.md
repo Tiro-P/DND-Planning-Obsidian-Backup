@@ -2,7 +2,8 @@
 dg-publish: true
 type: Location
 subType: City
-creator: Kesk
+creator:
+  - Kesk
 biome: "[[The Desolation]]"
 isolation: Hi
 risk: Hi
@@ -11,7 +12,6 @@ tags:
   - capital
   - "#city"
   - "#capital"
-cannon:
 ---
 ## Info
 - Common Races:

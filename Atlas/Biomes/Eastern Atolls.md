@@ -9,7 +9,6 @@ risk: Med
 tags:
   - biome
   - "#biome"
-cannon:
 ---
 
 The new home of the [[Eeleerie]] and their city of Keereen

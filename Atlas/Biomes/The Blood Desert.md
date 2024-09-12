@@ -10,7 +10,6 @@ risk: Hi
 tags:
   - biome
   - "#biome"
-cannon:
 ---
 
 Home of [[Gralan]] 

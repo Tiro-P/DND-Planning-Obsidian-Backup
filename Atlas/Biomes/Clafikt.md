@@ -8,8 +8,8 @@ Climate: Humid-Warm
 risk: Hi
 tags:
   - biome
-  - "#biome"
-cannon:
+Creator:
+  - Astarte
 ---
 ## Terrain
 - Description:

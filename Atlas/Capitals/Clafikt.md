@@ -5,7 +5,6 @@ subType:
   - Veria
 creator:
   - Astarte
-biome: "[[Syncing/Atlas/Biomes/Clafikt|Clafikt]]"
 isolation: Hi
 risk: Hi
 tags:

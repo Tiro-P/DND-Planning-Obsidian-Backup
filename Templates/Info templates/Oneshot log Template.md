@@ -2,7 +2,6 @@
 type: Oneshotlog
 subType: 
 date: "{{date}}"
-cannon: 
 creator: 
 tags:
   - oneshotlog

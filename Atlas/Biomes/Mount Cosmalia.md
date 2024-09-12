@@ -9,7 +9,6 @@ risk: Low
 tags:
   - biome
   - "#biome"
-cannon:
 ---
 
 birthplace of the [[Starborn]] and holy land of [[Astarte]]

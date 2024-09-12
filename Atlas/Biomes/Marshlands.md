@@ -11,7 +11,6 @@ risk: Med
 tags:
   - biome
   - "#biome"
-cannon:
 ---
 
 In between the [[Gilded Steppes]] and the [[Witch's Delta]] the Marshlands are the home of the [[Strennik]]

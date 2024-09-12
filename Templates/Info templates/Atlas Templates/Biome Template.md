@@ -1,7 +1,6 @@
 ---
 type: Biome
 subType: 
-cannon: 
 creator: 
 tags:
   - "#biome"

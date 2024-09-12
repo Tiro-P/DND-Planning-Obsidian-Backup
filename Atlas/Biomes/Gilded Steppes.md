@@ -11,8 +11,6 @@ tags:
   - "#city"
   - "#capital"
   - "#biome"
-cannon: 
-location:
 ---
 
 ## Terrain
