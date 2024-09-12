@@ -3,7 +3,7 @@ dg-publish: true
 type: Avatar
 creator: Hysteria
 location: "[[Isle of Eramoor]]"
-Alignment: neutral
+Alignment: True Neutral
 tags:
   - avatar
 ---

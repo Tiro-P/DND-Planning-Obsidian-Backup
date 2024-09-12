@@ -4,7 +4,7 @@ type: Race
 creator:
   - Kesk
 tags:
-  - "#race"
+  - race
 ---
 born as gnarled creatures of humanoid shape that look like tree roots
 as they grow around age 2 they learn how to remove limbs and expose living nerve core that they can attach new limbs for

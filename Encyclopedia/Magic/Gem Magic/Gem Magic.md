@@ -1,4 +1,6 @@
 ---
+tags:
+  - Magic
 dg-publish: true
 ---
 

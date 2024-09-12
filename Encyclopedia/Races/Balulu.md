@@ -4,7 +4,7 @@ type: Race
 subType: 
 creator: 
 tags:
-  - "#race"
+  - race
 ---
 ## Society Info
 - Age of Race:

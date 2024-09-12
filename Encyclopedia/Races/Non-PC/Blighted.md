@@ -4,7 +4,7 @@ type: Race
 subType: 
 creator: 
 tags:
-  - "#race"
+  - race
 ---
 ## World Info
 - Home Region:

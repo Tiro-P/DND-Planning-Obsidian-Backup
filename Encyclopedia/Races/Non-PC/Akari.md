@@ -1,9 +1,10 @@
 ---
 dg-publish: true
-tags:
-  - "#race"
 type: Race
-creator: Kesk
+creator:
+  - Kesk
+tags:
+  - race
 ---
 ## Society Info
 - Age of Race:

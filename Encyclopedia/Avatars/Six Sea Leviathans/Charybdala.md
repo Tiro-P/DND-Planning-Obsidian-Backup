@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-type: Avatar
-subType:
-  - Sea Leviathan
-creator:
-  - Astarte
-alignment: Neutral Evil
 tags:
   - avatar
+Creator:
+  - Astarte
+Location: Ocean
+Alignment: Neutral Evil
+Presence: "2"
 ---
 Docile omen of sickness and misfortune
 One of the [[Six Sea Leviathans]]

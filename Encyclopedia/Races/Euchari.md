@@ -3,7 +3,7 @@ dg-publish: true
 type: Race
 creator: 
 tags:
-  - "#race"
+  - race
 ---
 Lived in the home tree since 100BB weren’t discovered till after the face of the tree was found and they revealed themselves 
 ## Society Info

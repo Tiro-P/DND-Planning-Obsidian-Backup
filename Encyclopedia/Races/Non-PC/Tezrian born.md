@@ -3,7 +3,7 @@ dg-publish: true
 type: Race
 creator: 
 tags:
-  - "#race"
+  - race
 ---
 Formed from the essence of the destroyed [[Tezrian]]s and the god that made them
 ## Society Info

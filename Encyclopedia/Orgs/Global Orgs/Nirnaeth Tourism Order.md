@@ -5,7 +5,7 @@ subType:
 Alignment: 
 creator: Cujokra
 tags:
-  - organization
+  - Organization
 ---
 ## Info
 - Common Races:

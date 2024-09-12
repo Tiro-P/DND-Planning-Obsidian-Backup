@@ -1,4 +1,6 @@
 ---
+tags:
+  - Magic
 dg-publish: true
 ---
 Requires Access to the resonance like most [[Gem Magic]]

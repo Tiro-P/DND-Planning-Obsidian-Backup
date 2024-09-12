@@ -3,7 +3,7 @@ dg-publish: true
 type: Avatar
 creator: Muerin
 location: "[[Witch's Delta]]"
-Alignment: neutral
+Alignment: Chaotic Neutral
 tags:
   - avatar
 ---

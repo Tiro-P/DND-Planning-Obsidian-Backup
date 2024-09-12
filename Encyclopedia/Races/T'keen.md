@@ -1,9 +1,10 @@
 ---
 dg-publish: true
 type: Race
-creator: Tataluk
+creator:
+  - Tataluk
 tags:
-  - "#race"
+  - race
 ---
 ## Society Info
 - Age of Race:

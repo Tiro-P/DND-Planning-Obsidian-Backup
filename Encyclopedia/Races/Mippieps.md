@@ -3,7 +3,7 @@ dg-publish: true
 type: Race
 creator: 
 tags:
-  - "#race"
+  - race
 ---
 ## Society Info
 - Age of Race: 

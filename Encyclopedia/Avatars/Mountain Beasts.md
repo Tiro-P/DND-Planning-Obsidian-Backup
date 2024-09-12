@@ -3,7 +3,7 @@ dg-publish: true
 type: Avatar
 creator: Tataluk
 location: "[[The Heartlands]]"
-Alignment: good
+Alignment: Lawful Good
 tags:
   - avatar
 aliases:

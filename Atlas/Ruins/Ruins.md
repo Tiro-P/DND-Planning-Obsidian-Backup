@@ -1,12 +1,5 @@
----
-dg-publish: true
----
 # Ruins Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
+
 %% Begin Waypoint %%
 - [[Ruins of Cragola]]
 - [[Ruins of Delrah]]

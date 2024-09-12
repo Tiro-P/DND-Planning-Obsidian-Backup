@@ -2,10 +2,11 @@
 dg-publish: true
 type: Magic
 subType: Casting
-creator: Astarte
+creator:
+  - Astarte
 prevalance: Hi
 tags:
-  - "#magic"
+  - Magic
 ---
 Created by [[Astarte]] this is standard book magic using the power of words, gesture, and items, to channel and twist raw [[ley line magic]] into predictable forms
 ## Info

@@ -2,10 +2,11 @@
 dg-publish: true
 type: Magic
 subType: Casting
-creator: Cujokra
+creator:
+  - Cujokra
 prevalance: Low
 tags:
-  - "#magic"
+  - Magic
 aliases:
   - Nightmare Magic
 ---

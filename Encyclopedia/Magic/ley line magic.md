@@ -5,7 +5,7 @@ subType:
 creator: 
 prevalance: 
 tags:
-  - "#magic"
+  - Magic
 ---
 Not so much a single magic but a large amount of power that flows around the world released by the death of [[Muerin]] and the [[Tezrian]]s  This power is known to few [[Jodin]] and is mostly used by the [[Neplora]]
 

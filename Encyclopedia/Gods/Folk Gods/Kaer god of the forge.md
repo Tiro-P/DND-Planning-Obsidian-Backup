@@ -4,7 +4,7 @@ type: God
 subType: Folk
 alignment: Neutral Good
 tags:
-  - "#god"
+  - FolkGod
 ---
 ## Info
 - Domain:

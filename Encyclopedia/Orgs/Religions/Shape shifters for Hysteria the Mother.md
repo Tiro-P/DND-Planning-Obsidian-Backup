@@ -5,7 +5,7 @@ subType:
 Alignment: 
 creator: Hysteria
 tags:
-  - organization
+  - Organization
 ---
 ## Info
 - Common Races:

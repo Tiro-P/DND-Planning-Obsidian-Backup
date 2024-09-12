@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-type: Avatar
-subType:
-  - Sea Leviathan
-creator:
-  - Astarte
-alignment: Lawful Good
 tags:
   - avatar
+Creator:
+  - Astarte
+Location: Ocean
+Alignment: Lawful Good
+Presence: "2"
 ---
 Docile, lawful good, and rare. omen of fortune and bountiful life
 One of the [[Six Sea Leviathans]]

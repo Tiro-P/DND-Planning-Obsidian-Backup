@@ -1,0 +1,1 @@
+YAML is short for Yet Another Markup Language and its the language obsidian uses to structure its Metadata (file properties) usually you never have to use it directly but if you do god help you and use this [Yaml Linter](https://www.yamllint.com/) 

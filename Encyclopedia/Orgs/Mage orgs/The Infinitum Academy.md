@@ -5,7 +5,7 @@ subType:
 Alignment: good
 creator: Astarte
 tags:
-  - organization
+  - Organization
 ---
 ## Info
 - Common Races:

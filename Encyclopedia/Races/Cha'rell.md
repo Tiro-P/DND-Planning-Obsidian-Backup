@@ -1,9 +1,10 @@
 ---
 dg-publish: true
 type: Race
-creator: Astarte
+creator:
+  - Astarte
 tags:
-  - "#race"
+  - race
 ---
 ## Society Info
 - Age of Race:

@@ -4,7 +4,7 @@ type: God
 subType: Folk
 alignment: Lawful Good
 tags:
-  - "#god"
+  - FolkGod
 ---
 ## Info
 - Domain: The roads

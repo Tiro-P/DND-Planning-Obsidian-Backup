@@ -5,7 +5,7 @@ subType:
 creator:
   - Cujokra
 tags:
-  - "#race"
+  - race
 ---
 ## World Info
 - Age of Race:

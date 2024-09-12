@@ -5,7 +5,7 @@ subType:
 creator: 
 prevalance: Low
 tags:
-  - "#magic"
+  - Magic
 ---
 ## Info
 - Where you can find it:

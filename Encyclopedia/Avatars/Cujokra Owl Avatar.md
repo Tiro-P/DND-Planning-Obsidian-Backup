@@ -4,7 +4,7 @@ type: Avatar
 creator:
   - Cujokra
 location: "[[The Mistbelt]]"
-Alignment: neutral
+Alignment: True Neutral
 tags:
   - avatar
   - idkmaia

@@ -4,7 +4,7 @@ type: Avatar
 creator:
   - Kesk
 location: "[[The Desolation]]"
-Alignment: Evil
+Alignment: Chaotic Evil
 tags:
   - avatar
 ---

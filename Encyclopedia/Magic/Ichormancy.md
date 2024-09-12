@@ -2,10 +2,11 @@
 dg-publish: true
 type: Magic
 subType: Tradition
-creator: Kesk
+creator:
+  - Kesk
 prevalance: Low
 tags:
-  - "#magic"
+  - Magic
 ---
 The art of feeding arcane magic into [[Ichor]] to empower it and keep the user somewhat safe developed by the [[Ichormancers]]
 ## Info

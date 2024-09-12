@@ -1,9 +1,5 @@
 # Non-PC Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
+
 %% Begin Waypoint %%
 - [[Akari]]
 - [[Blighted]]

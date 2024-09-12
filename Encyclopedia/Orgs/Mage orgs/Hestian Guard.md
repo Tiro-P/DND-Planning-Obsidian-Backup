@@ -5,7 +5,7 @@ subType:
 Alignment: 
 creator: 
 tags:
-  - organization
+  - Organization
 ---
 The more active protective unit of [[Order of the Hearth]] the more skilled members are few in number but able to conjure an Aegis
 ## Info

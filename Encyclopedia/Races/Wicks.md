@@ -3,7 +3,7 @@ dg-publish: true
 type: Race
 creator: 
 tags:
-  - "#race"
+  - race
 ---
 big chillin with the [[Lunaris]]
 flames wont go out with water although that is a common suspicion

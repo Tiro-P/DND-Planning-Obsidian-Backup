@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+tags:
+  - Fauna
 ---
 Also called Gem Sparks or Taluk Tears
 Easily the smallest crystal creature, Talacri are tiny insects very similar to fireflies that will form intricate moving patterns. Often causing people to confuse these swarms of insects with will'o'whisps. Many people have witnessed Gem sparks dancing along to music being played.

@@ -1,5 +1,7 @@
 ---
 dg-publish: true
+tags:
+  - Fauna
 ---
 navigation aid and mouse control often found on T’keen ships
 a small friendly creature that seems to be a cross between a shark and a cat

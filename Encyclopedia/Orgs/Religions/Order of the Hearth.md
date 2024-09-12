@@ -5,7 +5,7 @@ subType:
 Alignment: 
 creator: Tataluk
 tags:
-  - organization
+  - Organization
 ---
 ## Info
 - Common Races:

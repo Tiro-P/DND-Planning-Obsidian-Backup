@@ -2,10 +2,11 @@
 dg-publish: true
 type: Magic
 subType: Tradition
-creator: Astarte
+creator:
+  - Astarte
 prevalance: Hi
 tags:
-  - "#magic"
+  - Magic
 ---
 ## Info
 - Where you can find it:

@@ -2,10 +2,11 @@
 dg-publish: true
 type: Magic
 subType: Affinity
-creator: Astarte
+creator:
+  - Astarte
 prevalance: Hi
 tags:
-  - "#magic"
+  - Magic
 ---
 Healing magic used exclusively by the [[Balulu]] and [[Polulu]]
 ## Info

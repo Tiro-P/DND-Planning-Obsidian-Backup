@@ -1,6 +1,8 @@
 ---
 dg-publish: true
 statblock: "true"
+tags:
+  - Fauna
 ---
 
 ```statblock

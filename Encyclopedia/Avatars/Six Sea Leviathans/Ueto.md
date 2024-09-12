@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-type: Avatar
-subType:
-  - Sea Leviathan
-creator:
-  - Astarte
-alignment: Neutral Good
 tags:
   - avatar
+Creator:
+  - Astarte
+Location: Ocean
+Alignment: Neutral Good
+Presence: "3"
 ---
 Very friendly omen of safe travels and good health
 One of the [[Six Sea Leviathans]]

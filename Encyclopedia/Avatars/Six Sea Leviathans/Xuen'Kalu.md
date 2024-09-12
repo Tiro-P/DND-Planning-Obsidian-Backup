@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-type: Avatar
-subType:
-  - Sea Leviathan
-creator:
-  - Astarte
-alignment: Chaotic Neutral
 tags:
   - avatar
+Creator:
+  - Astarte
+Location: Ocean
+Alignment: Chaotic Neutral
+Presence: "2"
 ---
 Chaotic neutral omen of Joy and adventure
 One of the [[Six Sea Leviathans]]

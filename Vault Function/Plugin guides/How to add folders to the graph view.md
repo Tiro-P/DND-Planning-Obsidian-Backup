@@ -1,0 +1,1 @@
+Create a folder note using the Folder Note plugin by Ctrl+clicking the folder and then put  Waypoint with two % signs on either side into the folder note The Waypoint will automatically update with the notes in the folder, linking them to the Folder Note so everything appears on the Graph

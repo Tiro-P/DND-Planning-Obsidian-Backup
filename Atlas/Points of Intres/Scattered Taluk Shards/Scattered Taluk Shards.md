@@ -1,12 +1,4 @@
----
-dg-publish: true
----
 # Scattered Taluk Mountains Overview
- 
-```ccard
-type: folder_brief_live
-```
- 
 %% Begin Waypoint %%
 - [[The Desert Shards]]
 - [[The Desolation Shard]]

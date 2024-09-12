@@ -2,10 +2,11 @@
 dg-publish: true
 type: Magic
 subType: Ritual
-creator: Muerin
+creator:
+  - Muerin
 prevalance: Low
 tags:
-  - "#magic"
+  - Magic
 ---
 Made by [[Muerin]] before the [[Tezrian]]s destroyed her, used by [[Eeleerie]] [[The Mad Witch]] and [[Tezrian born]]  this magic takes the form of deals and contracts, can also be used for conditional curses, "you will have all this power unless you cut your hair" ect. 
 https://www.youtube.com/watch?v=4tvw7fDPd0U <- vows and oaths in lotr

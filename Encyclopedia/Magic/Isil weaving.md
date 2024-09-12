@@ -2,10 +2,11 @@
 dg-publish: true
 type: Magic
 subType: Craft
-creator: Cujokra
+creator:
+  - Cujokra
 prevalance: Med
 tags:
-  - "#magic"
+  - Magic
 ---
 Created by [[Cujokra]] for the [[Nirnaeth]] 
 Use:[[Isil]]

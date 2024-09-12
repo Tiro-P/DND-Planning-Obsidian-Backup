@@ -3,7 +3,7 @@ dg-publish: true
 type: Avatar
 creator: Kesk
 location: "[[Virullen]]"
-Alignment: Ill
+Alignment: Lawful Evil
 tags:
   - avatar
 ---

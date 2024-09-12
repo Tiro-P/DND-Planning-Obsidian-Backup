@@ -1,9 +1,9 @@
 ---
 dg-publish: true
-tags:
-  - "#race"
 type: Race
-creator:
+creator: 
+tags:
+  - race
 ---
 ## Society Info
 - Age of Race:

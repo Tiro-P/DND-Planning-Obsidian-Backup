@@ -3,7 +3,7 @@ dg-publish: true
 type: Avatar
 creator: Hysteria
 location: "[[Razhan]]"
-Alignment: neutral
+Alignment: Neutral
 tags:
   - avatar
 ---

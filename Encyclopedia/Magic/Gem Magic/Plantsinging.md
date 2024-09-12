@@ -1,4 +1,6 @@
 ---
+tags:
+  - Magic
 dg-publish: true
 ---
 Uses water infused with [[Heart Gems]] to control plants and make them grow better and glow better

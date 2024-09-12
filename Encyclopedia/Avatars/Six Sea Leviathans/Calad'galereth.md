@@ -1,11 +1,12 @@
 ---
 dg-publish: true
-type: Avatar
-subType: Sea Leviathan
-creator: Astarte
-alignment: Chaotic Evil
 tags:
   - avatar
+Creator:
+  - Astarte
+Location: Ocean
+Alignment: Chaotic Evil
+Presence: "2"
 ---
 Evil and Chaotic omen of storms
 One of the [[Six Sea Leviathans]]

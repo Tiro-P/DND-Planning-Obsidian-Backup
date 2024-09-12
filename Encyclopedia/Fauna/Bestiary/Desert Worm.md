@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 tags:
-  - Monster
+  - Fauna
 ---
 
 ```statblock
