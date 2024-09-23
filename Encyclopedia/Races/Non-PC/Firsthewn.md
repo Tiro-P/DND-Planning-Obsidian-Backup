@@ -38,9 +38,9 @@ tags:
 - 2 armies of [[Firsthewn]] were made. each composed of 10 Warsongs 
 	- A Firsthewn Warsong is comprised of 3 Firsthewn, each with a unique aspect of the resonance
 - Death count:
-	- 1 Resonant of Melody eaten by [[Kesk]] (green)
+	- 1 Resonant of Melody was severed by [[Kesk]] becoming the seed of the [[Silenced]]
 	- 10 Warsongs were sent as a forward party to establish [[Tastora]] to help with the [[The Glass Wars]] but [[Jodath]] was attacked and 5 Warsongs were recalled to protect [[Tatalis]]. The remaining 15 [[Firsthewn]] managed to create [[Tastora]] from [[The Desert Shards]] but were not found when the [[Secondhewn]] arrived in 750AB and never made their way back to [[The Heartlands]]. They are assumed fallen.
-	- 10 Warsongs fought against the [[Shadowdwellers]] to assist the [[Jodin]]. They were successful in saving them but all 10 Warsongs were lost and are presumed to have become the first of the [[Silenced]]
+	- 10 Warsongs fought against the [[Shadowdwellers]] to assist the [[Jodin]]. They were successful in saving them but all 10 Warsongs were lost and are presumed to have become [[Silenced]] based on strange gems brought back
 	- In total 15 warsongs have fallen as well as the singular [[Firsthewn]] eaten by [[Kesk]] 
 - Total count as of common day in the heartlands
 	- the only remaining True [[Swordsinging|Swordsingers]] are the 5 warsongs that were recalled from the group sent to [[The Desert Shards]]

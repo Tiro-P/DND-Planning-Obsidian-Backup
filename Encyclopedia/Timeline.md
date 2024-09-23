@@ -84,7 +84,7 @@ Buncha fauna for [[The Heartlands]] ([[Tataluk]])
 Portola Turkeys :/ ([[Kesk]])
 
 ## CHAT 
-[[Kesk]] eats a [[Firsthewn]]
+[[Kesk]] eats a [[Firsthewn]] starting the seed that will become the [[Silenced]]
 
 ## 300BB
 
@@ -207,7 +207,7 @@ So is the [[United Alaris Trade Guild]]
 ## 700AB 
 This turn [[The Glass Wars]] begin
 
-[[Silenced]] as a concept, and [[Tatalis]] purification ([[Tataluk]])
+[[Tatalis]] purification ([[Tataluk]])
 
 [[Ritus, the Blind]] starts the [[Ritus Sect]] in [[Alaris]], commands part of [[Illureth]] to go to [[Alaris]] and bring their [[Fleshcrafting]]  
 
