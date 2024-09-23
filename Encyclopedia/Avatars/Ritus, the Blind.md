@@ -1,11 +1,12 @@
 ---
 dg-publish: true
-type: Avatar
-creator: Kesk
-location: "[[Alaris]]"
-Alignment: Ill
+Alignment: Lawful Neutral
 tags:
   - avatar
+Creator:
+  - Kesk
+Location: Global
+Presence: 5
 ---
 Avatar of [[Kesk]] 
 Androgynous humanoid with white robes and a blindfold

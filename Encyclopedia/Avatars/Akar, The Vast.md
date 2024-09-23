@@ -2,10 +2,11 @@
 dg-publish: true
 tags:
   - avatar
-Creator: [Kesk]
+Creator:
+  - Kesk
 Location: "[[Deafening Deep]]"
 Alignment: Chaotic Evil
-Presence: 2
+Presence: 1
 ---
 [[Kesk|Kesk's]] avatar of "conquest and consumption" and war master of the [[Akari]] during [[The Glass Wars]]
 ## Info
@@ -18,4 +19,5 @@ Presence: 2
 - Current:
 	- guide the [[Akari]] to conquer and consume although they are weaker now
 - Past:
+Presence:: 1
 	- Conquer and consume through [[The Glass Wars]]

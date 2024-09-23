@@ -5,8 +5,8 @@ tags:
 Creator:
   - Kesk
 Location: Global
-Alignment: Lawful Neutral
-Presence: 5
+Alignment: Neutral
+Presence: 2
 ---
 Avatar of [[Kesk]]
 creator of the [[Myelos]] founder of [[Ruins of Krov]] on [[Virullen]]
@@ -24,4 +24,8 @@ Embodies the idea of ulterior motives
 - Current:
 	- advance the agenda of [[The Velo]]
 - Past:
+Alignment:: Neutral
+Presence:: 2
+Presence:: 2
+Presence:: 2
 	- guide the [[Myelos]] in their advancements
