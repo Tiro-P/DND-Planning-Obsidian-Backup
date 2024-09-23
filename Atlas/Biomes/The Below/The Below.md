@@ -1,10 +1,12 @@
 ---
 dg-publish: true
-tags: []
+tags:
+  - "#biome"
+  - "#below"
 ---
 
 A network of caves made by [[Tataluk]] 
-inhabited by one of the [[Mountain Beasts]], [[Jodin]],, [[Shadowdwellers]], and [[Akar, The Vast]]
+inhabited by the [[Jodin]] and their enemies the [[Shadowdwellers]], as well as all sorts of [[Stonefauna]] and wild [[Crystal Golems]] and [[Akar, The Vast]]
 Threats include the [[Deafening Deep]] and Silenced
 # The Below Overview
 %% Begin Waypoint %%
