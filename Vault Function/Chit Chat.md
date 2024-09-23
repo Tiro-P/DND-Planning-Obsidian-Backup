@@ -8,5 +8,5 @@ you can just jot it down and keep it on deck till we chat or responses can be do
 - [ ] Question 
 	- [ ] Response
 # Tiro
-- [ ] Question 
+- [ ] The starborn are like  5 times purified which is a massive amount how is that reflected in them today
 	- [ ] Response
