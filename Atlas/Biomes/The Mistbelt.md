@@ -3,7 +3,7 @@ dg-publish: true
 tags:
   - biome
   - wip
-Creator: [Cujokra]
+Creator: [Cujokra, Tataluk]
 Terrain: [Deciduous Forest, Mountains]
 Risk-level: 4
 Climate: Cool

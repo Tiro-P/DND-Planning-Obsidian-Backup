@@ -2,7 +2,7 @@
 dg-publish: true
 tags:
   - biome
-Creator: [Tataluk]
+Creator: [Cujokra]
 Terrain: [Jungle, Deciduous Forest]
 Risk-level: 1
 Climate: Temperate

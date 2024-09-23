@@ -3,7 +3,7 @@ dg-publish: true
 tags:
   - biome
 Creator: [Muerin]
-Terrain: [Swamp, Coniferous Forest, Deciduous Forest, Plains]
+Terrain: [Swamp, Deciduous Forest, Plains]
 Risk-level: 2
 Climate: Temperate
 Weather: Wet
