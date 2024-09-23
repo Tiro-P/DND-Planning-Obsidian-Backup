@@ -1,18 +1,15 @@
 ---
 dg-publish: true
-type: Biome
-subType:
-  - Island
-  - Jungle
-  - Swamp
-  - Marsh
-creator:
-  - Kesk
-  - Astarte
-Climate: Humid-Warm
-risk: Hi
 tags:
   - biome
+  - wip
+Creator:
+  - Astarte
+  - Kesk
+Terrain: [Jungle, Swamp, Island]
+Risk-level: 4
+Climate: Warm
+Weather: Wet
 ---
 
 Home of the [[Myelos]] and [[Cha'rell]]

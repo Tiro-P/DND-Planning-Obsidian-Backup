@@ -1,15 +1,13 @@
 ---
 dg-publish: true
-type: Biome
-subType: Desert
-creator:
-  - Kesk
-  - Astarte
-Climate: Dry-Hot
-risk: Hi
 tags:
   - biome
-  - "#biome"
+  - wip
+Creator: [Kesk]
+Terrain: [Desert]
+Risk-level: 3
+Climate: Hot
+Weather: Arid
 ---
 
 Home of [[Gralan]] 

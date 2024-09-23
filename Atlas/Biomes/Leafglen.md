@@ -1,14 +1,12 @@
 ---
 dg-publish: true
-type: Biome
-subType: Forest
-creator:
-  - Cujokra
-Climate: Dry-Warm
-risk: Low
 tags:
   - biome
-  - "#biome"
+Creator: [Tataluk]
+Terrain: [Jungle, Deciduous Forest]
+Risk-level: 1
+Climate: Temperate
+Weather: Damp
 ---
 ## Terrain
 - Description:

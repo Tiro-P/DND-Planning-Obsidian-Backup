@@ -1,14 +1,12 @@
 ---
 dg-publish: true
-type: Biome
-subType: City
-creator:
-  - Hysteria
-Climate: Dry-Warm
-risk: Low
 tags:
   - biome
-  - "#biome"
+Creator: [Hysteria]
+Terrain: [Plains]
+Risk-level: 1
+Climate: Hot
+Weather: Dry
 ---
 
 ## Terrain

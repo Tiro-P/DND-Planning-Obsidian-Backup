@@ -1,13 +1,13 @@
 ---
 dg-publish: true
-type: Biome
-subType: Desert
-creator:
-  - Hysteria
-Climate: Dry-Hot
-risk: Med
 tags:
   - biome
+  - wip
+Creator: [Hysteria]
+Terrain: [Desert]
+Risk-level: 2
+Climate: Hot
+Weather: Arid
 ---
 
 Home of the [[Zharash]] and the main area [[The Glass Wars]] took place in

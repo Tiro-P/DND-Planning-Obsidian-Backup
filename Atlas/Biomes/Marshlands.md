@@ -1,16 +1,12 @@
 ---
 dg-publish: true
-type: Biome
-subType:
-  - Marsh
-  - Plains
-creator:
-  - Muerin
-Climate: Humid-Warm
-risk: Med
 tags:
   - biome
-  - "#biome"
+Creator: [Muerin]
+Terrain: [Swamp, Coniferous Forest, Deciduous Forest, Plains]
+Risk-level: 2
+Climate: Temperate
+Weather: Wet
 ---
 
 In between the [[Gilded Steppes]] and the [[Witch's Delta]] the Marshlands are the home of the [[Strennik]]

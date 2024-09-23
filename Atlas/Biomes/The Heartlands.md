@@ -1,15 +1,13 @@
 ---
 dg-publish: true
-type: Biome
-subType:
-  - Forest
-  - Mountain
-creator:
-  - Tataluk
-Climate: Dry-Warm
-risk: Low
 tags:
   - biome
+  - wip
+Creator: [Tataluk]
+Terrain: [Mountains]
+Risk-level: 1
+Climate: Temperate
+Weather: Dry
 ---
 
 The physical manifestation of [[Tataluk]]

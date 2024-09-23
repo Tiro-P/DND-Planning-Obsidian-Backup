@@ -1,16 +1,19 @@
 ---
 dg-publish: true
-type: Biome
-subType: The Below
-creator: Tataluk
-Climate: Cave
-risk: Hi
 tags:
   - biome
   - "#below"
+  - wip
+Creator:
+  - Tataluk
+Terrain:
+  - Cave
+Risk-level: 5
+Climate: Cold
+Weather: None
 ---
 
-The southern most part of [[The Below]] and the one furthest from [[Tataluk]]'s light
+The southern most part of [[The Below]] and the one furthest from the light and [[Gem Magic|Resonance]] of [[The Heartlands]]
 Home to [[Shadowdwellers]], many enslaved [[Strennik]] and maybe the [[Tea Sphynx]]
-also a hot spot for Silenced
+also the originating spot for the [[Silenced]] 
 Exit into the [[Marshlands]]

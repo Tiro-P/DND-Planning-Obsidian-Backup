@@ -1,14 +1,14 @@
 ---
 dg-publish: true
-type: Biome
-subType: Jungle
-creator:
-  - Tataluk
-Climate: Humid-Hot
-risk: Med
 tags:
   - biome
-  - "#biome"
+Creator:
+  - Tataluk
+Terrain:
+  - Jungle
+Risk-level: 2
+Climate: Temperate
+Weather: Wet
 ---
 ## Terrain
 - Description:

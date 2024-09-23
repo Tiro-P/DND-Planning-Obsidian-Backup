@@ -1,15 +1,16 @@
 ---
 dg-publish: true
-type: Biome
-subType:
-  - Jungle
-  - Plains
-creator:
-  - Muerin
-Climate: Humid-Hot
-risk: Med
 tags:
   - biome
+  - wip
+Creator:
+  - Muerin
+Terrain:
+  - Mushy
+  - Plains
+Risk-level: 4
+Climate: Temperate
+Weather: Humid
 ---
 
 Home of the [[Anuke]]

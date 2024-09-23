@@ -1,15 +1,7 @@
 ---
 dg-publish: true
-type: Biome
-subType: Island
-creator:
-  - Astarte
-Climate: Humid-Warm
-risk: Hi
 tags:
   - biome
-Creator:
-  - Astarte
 ---
 ## Terrain
 - Description:

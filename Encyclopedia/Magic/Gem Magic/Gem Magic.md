@@ -2,6 +2,8 @@
 tags:
   - Magic
 dg-publish: true
+aliases:
+  - Resonance
 ---
 
 

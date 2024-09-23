@@ -1,15 +1,17 @@
 ---
 dg-publish: true
-type: Biome
-subType:
-  - Island
-  - Jungle
-creator:
-  - Astarte
-Climate: Humid-Hot
-risk: Med
 tags:
   - biome
+Creator:
+  - Astarte
+Terrain:
+  - Island
+  - Jungle
+  - Desolate
+  - Volcanic
+Risk-level: 3
+Climate: Hot
+Weather: Wet
 ---
 ## Terrain
 - Description:

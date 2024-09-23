@@ -1,13 +1,13 @@
 ---
 dg-publish: true
-type: Biome
-subType: Jungle
-creator:
-  - Muerin
-Climate: Humid-Warm
-risk: Med
 tags:
   - biome
+  - wip
+Creator: [Muerin]
+Terrain: [Jungle, Mountains]
+Risk-level: 3
+Climate: Hot
+Weather: Wet
 ---
 
 Home of the [[Zamantu]]
