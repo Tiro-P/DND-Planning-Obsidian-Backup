@@ -7,7 +7,7 @@ Creator:
 Terrain:
   - Island
   - Coniferous Forest
-Risk-level: 1
+Risk-level: 4
 Climate: Cold
 Weather: Wet
 ---

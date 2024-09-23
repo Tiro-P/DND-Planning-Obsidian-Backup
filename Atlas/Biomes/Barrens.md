@@ -5,7 +5,7 @@ tags:
 Creator:
   - Tataluk
 Terrain: [Desert]
-Risk-level: 2
+Risk-level: 3
 Climate: Hot
 Weather: Dry
 ---

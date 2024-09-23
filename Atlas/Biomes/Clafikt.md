@@ -2,6 +2,15 @@
 dg-publish: true
 tags:
   - biome
+Creator:
+  - Astarte
+  - Kesk
+Terrain:
+  - Island
+  - Jungle
+Risk-level: 4
+Climate: Hot
+Weather: Humid
 ---
 ## Terrain
 - Description:

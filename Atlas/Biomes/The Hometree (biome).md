@@ -8,7 +8,7 @@ Creator:
   - Astarte
 Terrain:
   - Tree
-Risk-level: 1
+Risk-level: 2
 Climate: Warm
 Weather: Humid
 ---

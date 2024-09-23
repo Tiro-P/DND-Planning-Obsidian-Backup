@@ -5,7 +5,7 @@ tags:
   - wip
 Creator: [Hysteria]
 Terrain: [Mountains, Tundra]
-Risk-level: 4
+Risk-level: 3
 Climate: Cold
 Weather: Dry
 ---
