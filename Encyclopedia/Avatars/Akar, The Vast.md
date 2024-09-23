@@ -1,16 +1,15 @@
 ---
 dg-publish: true
-type: Avatar
-creator:
-  - Kesk
-location: "[[The Desolation]]"
-Alignment: Chaotic Evil
 tags:
   - avatar
+Creator: [Kesk]
+Location: "[[Deafening Deep]]"
+Alignment: Chaotic Evil
+Presence: 2
 ---
 [[Kesk|Kesk's]] avatar of "conquest and consumption" and war master of the [[Akari]] during [[The Glass Wars]]
 ## Info
-- Creations: [[Akari]], [[The Glass Wars]], [[Deafening Deep]]
+- Creations: [[Akari]], [[The Glass Wars]], [[Deafening Deep]] 
 - Followers: [[Akari]]
 - Symbols: 
 - Movement: Akar dwells in the vast network of tunnels under [[The Desolation]]
