@@ -1,13 +1,13 @@
 ---
 dg-publish: true
-type: Biome
-subType: Desert
-creator:
-  - Cujokra
-Climate: Humid-Cold
-risk: Low
 tags:
   - biome
+  - wip
+Creator: [Cujokra]
+Terrain: [Desert]
+Risk-level: 2
+Climate: Cold
+Weather: Wet
 ---
 
 Birthplace of the [[Nirnaeth]] and home to their cities [[Nairobi]] and [[Arminaleth]]

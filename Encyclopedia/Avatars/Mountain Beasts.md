@@ -27,7 +27,6 @@ and Takan-Tal The Joiner is blue
 - Followers: [[Firsthewn]]
 - Symbols: [[Heart Gems]], and their respective colors
 - Movement: Takan-Di moved once
-
 ## Goals
 - Current:
 	- Make [[Secondhewn]]

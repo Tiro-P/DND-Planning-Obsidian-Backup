@@ -1,13 +1,15 @@
 ---
 dg-publish: true
-type: Biome
-subType: Island
-creator:
-  - Hysteria
-Climate: Humid-Cold
-risk: Hi
 tags:
   - biome
+Creator:
+  - Hysteria
+Terrain:
+  - Island
+  - Coniferous Forest
+Risk-level: 4
+Climate: Cold
+Weather: Wet
 ---
 ## Terrain
 - Description:

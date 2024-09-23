@@ -1,13 +1,12 @@
 ---
 dg-publish: true
-type: Biome
-subType: Island
-creator:
-  - Hysteria
-Climate: Dry-Cold
-risk: Low
 tags:
   - biome
+Creator: [Hysteria]
+Terrain: [Island, Plains, Mountains]
+Risk-level: 1
+Climate: Cold
+Weather: Wet
 ---
 ## Terrain
 - Description:

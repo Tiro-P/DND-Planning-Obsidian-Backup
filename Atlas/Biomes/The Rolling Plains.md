@@ -1,13 +1,13 @@
 ---
 dg-publish: true
-type: Biome
-subType: Plains
-creator:
-  - Astarte
-Climate: Dry-Warm
-risk: Low
 tags:
   - biome
+  - wip
+Creator: [Tataluk, Kesk]
+Terrain: [Plains, Cracked]
+Risk-level: 1
+Climate: Warm
+Weather: Dry
 ---
 
 Home of the [[Balulu]] in the center and the [[Bolints]] on the north coast

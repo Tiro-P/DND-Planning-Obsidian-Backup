@@ -6,6 +6,8 @@ state: Destroyed
 risk: Hi
 tags:
   - ruin
+aliases:
+  - Krov
 ---
 Common Races: [[Myelos]]
 

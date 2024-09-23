@@ -1,24 +1,14 @@
 ---
 dg-publish: true
-type: Biome
-subType: Desert
-creator:
-  - Kesk
-  - Astarte
-Climate: Dry-Hot
-risk: Med
 tags:
   - biome
-  - "#biome"
+Creator:
+  - Tataluk
+Terrain: [Desert]
+Risk-level: 3
+Climate: Hot
+Weather: Dry
 ---
-
-Arid wasteland on the east coast origin of the [[Eeleerie]] although they are now gone
-Home of the [[Gravan]]
-City:[[Cragolith]]
-part of the fighting of [[The Glass Wars]] as shown by the ruins of [[Ruins of Teerai]]
-Now home to [[Tastora]]
-Points of interest ruins of [[Ruins of Teerai]], [[The Desert Shards]]
-
 ## Terrain
 - Description:
 	- An arid wasteland on the eastern coast of the main continent, the land here is full of canyons and sand dunes

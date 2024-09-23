@@ -1,14 +1,16 @@
 ---
 dg-publish: true
-type: Biome
-subType: Island
-creator:
-  - Kesk
-Climate: Humid-Warm
-risk: Med
 tags:
   - biome
-  - "#biome"
+Creator:
+  - Kesk
+Terrain:
+  - Island
+  - Ocean
+  - Living
+Risk-level: 3
+Climate: Hot
+Weather: Wet
 ---
 ## Terrain
 - Description:

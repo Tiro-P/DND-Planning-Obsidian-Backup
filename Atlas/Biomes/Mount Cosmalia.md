@@ -1,14 +1,12 @@
 ---
 dg-publish: true
-type: Biome
-subType: Mountain
-creator:
-  - Astarte
-Climate: Dry-Warm
-risk: Low
 tags:
   - biome
-  - "#biome"
+Creator: [Astarte]
+Terrain: [Mountains]
+Risk-level: 1
+Climate: Temperate
+Weather: Damp
 ---
 
 birthplace of the [[Starborn]] and holy land of [[Astarte]]

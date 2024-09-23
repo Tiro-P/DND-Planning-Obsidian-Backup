@@ -1,14 +1,13 @@
 ---
 dg-publish: true
-type: Biome
-subType: Island
-creator:
-  - Tataluk
-Climate: Humid-Warm
-risk: Med
 tags:
   - biome
-  - "#biome"
+Creator:
+  - Tataluk
+Terrain: [Island, Coniferous Forest, Deciduous Forest]
+Risk-level: 3
+Climate: Temperate
+Weather: Wet
 ---
 
 The new home of the [[Eeleerie]] and their city of Keereen

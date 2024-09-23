@@ -1,13 +1,13 @@
 ---
 dg-publish: true
-type: Biome
-subType: Mountain
-creator:
-  - Cujokra
-Climate: Humid-Cold
-risk: Hi
 tags:
   - biome
+  - wip
+Creator: [Cujokra, Tataluk]
+Terrain: [Deciduous Forest, Mountains]
+Risk-level: 4
+Climate: Cool
+Weather: Hazardous
 ---
 
 Home of the [[Wicks]] and [[Lunaris]]

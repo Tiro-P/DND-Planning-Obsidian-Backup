@@ -1,17 +1,16 @@
 ---
 dg-publish: true
-type: Biome
-subType:
-  - Jungle
-  - Island
-  - Mountain
-creator:
-  - Tataluk
-  - Astarte
-Climate: Humid-Warm
-risk: Low
 tags:
   - biome
+  - wip
+Creator:
+  - Tataluk
+  - Astarte
+Terrain:
+  - Tree
+Risk-level: 2
+Climate: Warm
+Weather: Humid
 ---
 
 Home of the [[T'keen]] and [[Euchari]] 

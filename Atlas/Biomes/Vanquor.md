@@ -1,15 +1,15 @@
 ---
 dg-publish: true
-type: Biome
-subType: Tundra
-creator:
-  - Hysteria
-Climate: Dry-Cold
-risk: Hi
 tags:
   - biome
+  - wip
+Creator: [Hysteria]
+Terrain: [Mountains, Tundra]
+Risk-level: 3
+Climate: Cold
+Weather: Dry
 ---
-#biome
+
 Island home of the [[Elucian]] people 
 City: [[Vancoril]] 
 Point of interest: [[Dolorem]]
