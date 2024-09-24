@@ -24,8 +24,4 @@ Embodies the idea of ulterior motives
 - Current:
 	- advance the agenda of [[The Velo]]
 - Past:
-Alignment:: Neutral
-Presence:: 2
-Presence:: 2
-Presence:: 2
 	- guide the [[Myelos]] in their advancements
