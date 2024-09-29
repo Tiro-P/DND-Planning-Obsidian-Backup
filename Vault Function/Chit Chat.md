@@ -20,3 +20,4 @@ you can just jot it down and keep it on deck till we chat or responses can be do
 	- [ ] I was thinking that for the most part, races were isolated to their own lands, save for the inhabitants of 
 - [ ] What would [[Astarte]] think about the [[Jodin]] as they live underground and kinda away from the sky? would this effect their ability to use [[Ethum]] or something?
 - [ ] Any race can get to [[The Skybrand]] right? if they do the heroic stuff or do [[Astarte|Astarte’s]] riddles 3 or whatever the challenge is
+- [ ] How long is [[Rewriting]] and are the moons still out during it
