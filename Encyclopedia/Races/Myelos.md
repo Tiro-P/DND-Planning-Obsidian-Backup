@@ -23,7 +23,7 @@ When a Myelos dies it shrivels into a ball that looks like its made of tree root
 - Standings with other races:
 	- The [[Myelos]] and [[Cha'rell]] are very close, regarding each other as siblings
 ## Description
-- Lifespan: Maximum of 150 years, 80 years on average
+- Lifespan: Maximum of 150 years, 80 years on average, they loose elasticity as they age
 - Physical Description:
 	- Myelos are born with a vaguely humanoid shape that looks like its made of snarled tree roots. about 2 years old they gain the ability to graft and from there they take wildly different appearances, ranging from 4-8ft tall and any shape imaginable.
 - Temperament:
@@ -43,6 +43,7 @@ Myelos get both Heal and craft (harvest)
 unique functioning body see below
 this race uses INT for Heal
 ### Grafting
+Myelos body parts age at a rate respective to the support systems in place for their organs
 #### Checks
 - Heal checks are used to graft parts on to a Myelos' or another consenting Myelos
 - Craft (harvest) checks are used to harvest parts off of non conscious Myelos creatures. DC will always be 10+2CR

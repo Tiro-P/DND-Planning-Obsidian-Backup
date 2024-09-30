@@ -28,5 +28,6 @@ tags:
 - The deeds required to become a blighted are quite severe for a [[Starborn]] making them relatively rare, less than one in a thousand [[Starborn]] will ever become [[Blighted]]
 - [[Blighted]] aren't created out of [[Astarte|Astarte's]] hate, they are created due to [[Astarte|Astarte's]] love of heroes. when a [[Starborn]] falls far enough from good that they can no longer conceivably achieve the role of a hero they become a [[Blighted]]
 - They can become redeemed but it has to be done by a massive act such as finding [[The Skybrand]]
+- Blighted can have kids they will be born as [[Starborn]] though
 ## Name Examples
 see [[Starborn]]

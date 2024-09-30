@@ -127,7 +127,7 @@ side order of [[Akari]] made by [[Akar, The Vast]] that would become the [[Eucha
 
 [[Canopy Strider]], ([[Tataluk]])
 
-[[The Skybrand]], sends [[Cha'rell]] to [[Ruins of Krov|Krov]] and advances them in shapeshifting, purifies [[Celestia]] twice ([[Astarte]])
+[[The Skybrand]], sends [[Cha'rell]] to [[Ruins of Krov|Krov]] improving their shapeshifting, purifies [[Celestia]] twice ([[Astarte]])
 
 [[Ruins of Krov|Krov]] now a joint city, gets advanced in [[Fleshcrafting]], [[Ruins of Krov|Krov]] and [[Akarus]] [[Ichor]] orders, [[Ichormancers]] ([[Kesk]])
 
