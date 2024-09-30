@@ -139,7 +139,7 @@ side order of [[Akari]] made by [[Akar, The Vast]] that would become the [[Eucha
 
 [[Fweedoon]],[[Greentails]] ([[Tataluk]])
 
-[[Blighted]], [[Balulu]], [[Broof]] is made and purified once([[Astarte]])
+[[Veria]], [[Balulu]], [[Broof]] is made and purified once([[Astarte]])
 
 [[Ruins of Krov|Krov]] is overthrown and corrupted by [[Ichor]], refugees travel to [[Illureth]] advancing them in [[Fleshcrafting]] ([[Kesk]])
 
@@ -165,7 +165,7 @@ Blind avatar [[Funky Head 3]] makes another army advancing [[Zharash]] in fighti
 
 [[Illureth]] makes [[Fleshcrafting]] and destroys [[Ruins of Krov|Krov]]
 
-[[Polulu]], [[Choor]], [[Veria]] ([[Astarte]])
+[[Polulu]], [[Choor]], [[Blighted]]([[Astarte]])
 
 [[Nirnaeth]] advance in hand to hand combat, [[Nirnaeth]] get the [[Tarculu]] curse using magic from the [[Blood Moon]] ([[Cujokra]])
 
