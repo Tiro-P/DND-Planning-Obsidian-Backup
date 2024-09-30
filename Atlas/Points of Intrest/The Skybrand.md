@@ -10,8 +10,6 @@ risk: Low
 tags:
   - pointofintrest
 ---
-
-
 ## Info
 - Location:
 	- The Skybrand exists floating above the peak of [[Mount Cosmalia]], visible on clear nights as a glowing gash in the sky

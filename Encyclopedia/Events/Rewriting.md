@@ -6,7 +6,7 @@ creator: Astarte
 tags:
   - "#event"
 ---
-Once a year [[Astarte]] hides the stars for a week to draw new constellations of heroes who have reached [[The Skybrand]] 
+
 ## Info
 - Reason:
 	- [[Astarte|Astarte's]] form of celebration created after [[The Glass Wars]] ended to honor the heroes
@@ -16,6 +16,7 @@ Once a year [[Astarte]] hides the stars for a week to draw new constellations of
 - Locations:
 	- [[Mount Cosmalia]] and particularly [[Celestia]] are where the celebrations are most intense
 - Celebrations/Impacts:
+	- The start of the Rewriting is [[Astarte]] brushing aside the stars in the sky and then drawing in constellations star by star over the next week 
 	- a week long festival for the starborn
 ## Threads 
 - 
