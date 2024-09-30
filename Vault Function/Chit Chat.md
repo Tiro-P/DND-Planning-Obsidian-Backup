@@ -10,7 +10,7 @@ you can just jot it down and keep it on deck till we chat or responses can be do
 - [ ] Names of regions
 	- [ ] What are the names of the major islands? does the main continent have just one name or is it mostly referred to by its [[Biomes]]?
 		- names of the islands are listed on the world map with their biome marker -Tiro
-		- since there is just one continent and its divided up among people I think it would be referred to by either the people living there ([[Mippieps|Mippiep]] Territory, ect.) or the [[Biome]] depending on who was talking about it and why -Tiro
+		- since there is just one continent and its divided up among people I think it would be referred to by either the people living there ([[Mippieps|Mippiep]] Territory, ect.) or the [[Biome]] depending on who was talking about it and why -Tir
 - [ ] Subject
 	- [ ] Additional Info
 		- [ ] Response
