@@ -17,7 +17,7 @@ Created by [[Astarte]] this is standard book magic using the power of words, ges
 - Source:
 	-  Created by [[Astarte]] this magic manipulates existing ambient magic into effects
 - Age:
-	- Post glasswars?
+	- between 730AB and 770AB?
 
 ## Threads
 - 
