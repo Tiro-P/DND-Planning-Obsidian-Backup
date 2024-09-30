@@ -18,5 +18,6 @@ A tall humanoid with antlers made entirely of stars
 ## Goals
 - Current:
 	- Observe the stars and observe the [[Starborn]]
+	- wandering apprentice and watcher of [[Astarte]]
 - Past:
 	- 

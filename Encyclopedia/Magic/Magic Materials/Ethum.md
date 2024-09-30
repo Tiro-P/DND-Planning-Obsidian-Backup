@@ -16,7 +16,7 @@ Found: Blessed by worshipers of [[Astarte]] from clay
 Cost: hard to be created has to be done by skilled members of either [[Order of the Horizon]] or [[Order of the Starstrider]] through science or ritual respectively. also in the grand scheme of things not terribly useful
 ## Info
 - Uses:
-	- 
+	- Ethum is Drawn to creativity and love of creation
 - Obtaining:
 	- 
 - Risks:
