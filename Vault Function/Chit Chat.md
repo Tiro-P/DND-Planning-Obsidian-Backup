@@ -6,6 +6,7 @@ you can just jot it down and keep it on deck till we chat or responses can be do
 	- [ ] And on the subject how would it work in Illureth, have the Cha’rell included Myelos in their government? Was there segregation at any point?
 		- I talked to Trent about this a little, the Myelos 
 	- [ ] Are the organizations we made during world building the main, biggest factions in our world or are they just specialized enough that they warrant consideration? Do have any governing capacity?
+		- I think people just made organizations they thought would be cool or particularly noteworthy. I think there would definitely be governments that weren’t made during worldbuilding.-Tiro 
 - [ ] Names of regions
 	- [ ] What are the names of the major islands? does the main continent have just one name or is it mostly referred to by its [[Biomes]]?
 		- names of the islands are listed on the world map with their biome marker -Tiro
@@ -18,7 +19,8 @@ you can just jot it down and keep it on deck till we chat or responses can be do
 	- [ ] Response
 # Tiro
 - [ ] The starborn are like  5 times purified which is a massive amount how is that reflected in them today (other than just the [[Blighted]] being cast out)
-	- [ ] what is purification -Q
+	- [ ] what is purification -Q 
+		- [ ] that’s kinda the question I’m asking, game wise its pushing them to an alignment but my question was what’s that mean for the starborn specifically because they are an extreme example -Tiro
 - [ ] We should probably establish a list of wars/disputes between races, the only two I can think of is [[The Glass Wars]] and what happened between the  [[Shadowdwellers]], [[Jodin]] and [[Firsthewn]]. also *maybe* the destruction of [[Ruins of Krov|Krov]]. But I'm sure there are advancements or purification/corruptions that can be reasoned as disputes.
 	- [ ] I was thinking that for the most part, races were isolated to their own lands, save for the inhabitants of 
 - [ ] What would [[Astarte]] think about the [[Jodin]] as they live underground and kinda away from the sky? would this effect their ability to use [[Ethum]] or something?
