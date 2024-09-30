@@ -11,7 +11,7 @@ Blind avatar of [[Hysteria]] and war master of the [[Zharash]] during [[The Glas
 
 During the [[The Glass Wars]] they were captured by the [[Akari]] when they captured [[Xrell]] under the instruction of [[Akar, The Vast]] but later was reclaimed by the [[Zharash]] when they retook [[The Holy Sands]]
 ## Info
-- Creations: [[Zharash]], eye plants, [[Kyameru]]
+- Creations: [[Zharash]], eye plants, [[Kyameru]] 
 - Followers: [[Zharash]]
 - Symbols: the eye
 - Movement: lives in [[The Holy Sands]]
