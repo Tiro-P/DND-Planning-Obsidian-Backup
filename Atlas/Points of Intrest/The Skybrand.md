@@ -14,7 +14,7 @@ tags:
 
 ## Info
 - Location:
-	- The Skybrand exists floating above the peak of [[Mount Cosmalia]]
+	- The Skybrand exists floating above the peak of [[Mount Cosmalia]], visible on clear nights as a glowing gash in the sky
 - Interest:
 	- Created by [[Astarte]] as a way to commemorate the best stories of the [[Starborn]]
 	- It is the considered the peak of achievement for a [[Starborn]] to be invited into the halls of the Skybrand
