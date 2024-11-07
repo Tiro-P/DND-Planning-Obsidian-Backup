@@ -19,6 +19,7 @@ This was where the [[PC template]] was made and includes notes on the intention 
 | STR | DEX | CON | INT | WIS | CHA |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 |     |     |     |     |     |     |
+|     |     |     |     |     |     |
 
 | HP  | AC  | Touch | Flat Footed |
 | :-: | --- | ----- | ----------- |
