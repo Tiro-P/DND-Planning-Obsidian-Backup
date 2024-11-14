@@ -6,12 +6,13 @@
 Language: Fweedin
 ## Sounds
 Consonants
-θ(th) l f d k ɹ(r) w f͡w(fw)
+θ(th) l f d k ɹ(r) f͡w(fw)
 Vowels 
 ɛ(e) i(ee) ɪ(i) u(oo/u)
 ## Words
 - pre existing
 	- [[Ekenureleth]]
+	- 
 - New
 	- Thel’din (θ)
 ## Additional rules/focuses
@@ -26,7 +27,7 @@ Vowels
 		- subject
 	- Dative case
 		- indirect object
-	- Genative
+	- Genitive
 		- shows possession
 
 | Number   | Case       | Animate | Inanimate |
