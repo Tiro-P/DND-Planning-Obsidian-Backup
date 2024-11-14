@@ -143,7 +143,7 @@ side order of [[Akari]] made by [[Akar, The Vast]] that would become the [[Eucha
 
 [[Ruins of Krov|Krov]] is overthrown and corrupted by [[Ichor]], refugees travel to [[Illureth]] advancing them in [[Fleshcrafting]] ([[Kesk]])
 
-[[Zharash]] order, makes [[Kyameru]] as their mounts uses Zarash avatar’s eyes [[Funky Head 3]] to make eye plants ([[Hysteria]])
+[[Zharash]] order, makes [[Keya-meru]] as their mounts uses Zarash avatar’s eyes [[Funky Head 3]] to make eye plants ([[Hysteria]])
 
 [[Isil weaving]] is created and used by [[Cujokra]] to make  [[Arminaleth]] ([[Cujokra]])
 
@@ -223,7 +223,7 @@ Second [[Shadowdwellers]] army as well as corrupting them a second time, Second 
 
 ## 710AB
 
-[[Ekrenureleth]] more [[Stonefauna]], [[Tastora]] 
+[[Ekenureleth]] more [[Stonefauna]], [[Tastora]] 
 
 [[Firsthewn]] army, [[Jodin]] army ([[Tataluk]])
 
