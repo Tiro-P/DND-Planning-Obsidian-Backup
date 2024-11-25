@@ -3,11 +3,19 @@ dg-publish: true
 ---
 # Rollers
 ## Physical
-Physique, Face, Skin, Hair, Clothing, Speech
-`dice: [[NPC description table^physique]]` `dice: [[NPC description table^Face]]` `dice: [[NPC description table^skin]]` `dice: [[NPC description table^Hair]]` `dice: [[NPC description table^Clothing]]` `dice: [[NPC description table^Speech]]`
+**Physique, Face, Skin, Hair, Clothing, Speech**
+`dice: [[NPC description table^physique]]` `dice: [[NPC description table^Face]]`
+`dice: [[NPC description table^skin]]`
+`dice: [[NPC description table^Hair]]`
+`dice: [[NPC description table^Clothing]]`
+`dice: [[NPC description table^Speech]]`
 ## Soul
-Virtue, Vice, Background, Misfortunes, Alignment
- `dice: [[NPC description table^Virtue]]` `dice: [[NPC description table^Vice]]` `dice: [[NPC description table^Background]]` `dice: [[NPC description table^Misfortunes]]` `dice: [[NPC description table^Alignment]]`
+**Virtue, Vice, Background, Misfortunes, Alignment**
+`dice: [[NPC description table^Virtue]]`
+`dice: [[NPC description table^Vice]]` 
+`dice: [[NPC description table^Background]]` 
+`dice: [[NPC description table^Misfortunes]]` 
+`dice: [[NPC description table^Alignment]]`
 
 # Base Tables
 ## Physique

@@ -18,6 +18,7 @@ dg-publish: true
 | Wind with hail and debris while casting                                                                                                                                | 10 + spell level                                                                                               |
 | Weather caused by spell                                                                                                                                                | see spell                                                                                                      |
 | [Entangled](https://www.d20pfsrd.com/gamemastering/conditions#35TOC-Entangled) while casting                                                                           | 15 + spell level                                                                                               |
+Caster level+Casting mod+1d20
 ## Saving Throw DCs
 the DC for a saving throw against a spell is 10 + spell level + casting modifier
 
