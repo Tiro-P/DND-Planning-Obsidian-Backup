@@ -30,6 +30,7 @@ tags:
 	- they stand around 4 feet tall and usually appear in a swarm
 	- Their blood is a thin black fluid 
 	- There are males and females in the species, though not much way to tell them apart, even socially.
+	- 2-20 compound eyes
 - Temperament:
 	- All akari are driven to devour and to consume
 	- Their ruling class is chosen by combat
