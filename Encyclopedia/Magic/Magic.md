@@ -23,13 +23,16 @@ Types of magic ( how it's used )
 - questions
 	- magic as a whole 
 		- can new magic energy be made or is everyone scooping from the existing created pool of power that exists in the leylines or in other places (moon) (ichor pool)
-		- 
+			- 
 	- ichor and ethum
-		- does ichor mutate stuff? does it consume stuff or just corrupt? Like is it doing akar stuff (eat) or kesk stuff (make evil things)
+		- does ichor mutate stuff? does it consume stuff or just corrupt? Like is it doing Akar stuff (eat) or Kesk stuff (make evil things)
 		- is ichor only found? Or is it made somehow? The doc mentions pools of Kesk’s blood are the place to get it, how big would those be?
+			- balance between commonality and power?
 		- are there any similarities between ethum and ichor other than being the primary magical material of a primordial god?
 		- can ethum be blighted? Does that change it other than visually?
+			- Ethum can be blighted it will try to avoid it but it'll separate back into mundane material and it will be divested of its magic
 			- ik one of the main downsides of being blighted is you can't use ethum is it like a magnetic repelling force thing or does it get destroyed or just not cooperate?
+				- It actively avoids them like two same charged magnets and is uncooperative with them
 		- does ethum have it's own inherent power or is it just a conduit/amplifier for it's users. Like paint can be pretty but it isn't inherently artistic. Or is it like divine inspiration kinda like the magic equivalent of those bladeless “air multiplier” fans
 		- ethum crafting is either a religious style blessing of clay (any other materials?) or scientific methods and discovery 
 			- is that like having things around the lab that'll turn to ethum when they find something cool?
