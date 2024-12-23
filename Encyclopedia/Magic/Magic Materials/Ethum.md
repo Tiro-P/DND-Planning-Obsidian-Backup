@@ -36,4 +36,5 @@ Cost: hard to be created has to be done by skilled members of either [[Order of 
 	- Astarte made it so that people could make stories with it, if there are less people that can use it well there will be less Ethum
 - Ethum when used, overtime becomes more attuned to its user, getting easier to use by them and harder to be used by others.
 	- this can continue through generations, the Ethum will adopt the colors and patterning of its users over a long period of time
-- This attument does not limit the ability of the ethum to take other shapes but it “tints” the creation more towards what it has been historically used for
+	- This attument does not limit the ability of the Ethum to take other shapes or be used by other craftspeople but it “tints” the creation more towards what the Ethum has been historically used for
+- Ethum once in a shape can be reshaped by others however more skilled craftspeople’s work will require an equally skilled craftsperson to dismantle
