@@ -14,10 +14,10 @@ Types of magic ( how it's used )
 	- a steadfast rule of existence that can't be directly used only worked with
 	- Examples: oaths in LoTR where swearing an oath bends fate itself to make it happen
 
-| Magic  | Type | Interactions |
-| ------ | ---- | ------------ |
-| Arcane |      |              |
-|        |      |              |
+| Magic  | Type     | Interactions                   |
+| ------ | -------- | ------------------------------ |
+| Arcane |          |                                |
+| Ethum  | Material | Explodes on contact with Ichor |
 ## general magic ideas dump 
 ### non canonized 
 - questions
@@ -34,7 +34,7 @@ Types of magic ( how it's used )
 			- ik one of the main downsides of being blighted is you can't use ethum is it like a magnetic repelling force thing or does it get destroyed or just not cooperate?
 				- It actively avoids them like two same charged magnets and is uncooperative with them
 		- does ethum have it's own inherent power or is it just a conduit/amplifier for it's users. Like paint can be pretty but it isn't inherently artistic. Or is it like divine inspiration kinda like the magic equivalent of those bladeless “air multiplier” fans
-		- ethum crafting is either a religious style blessing of clay (any other materials?) or scientific methods and discovery 
+		- Ethum crafting is either a religious style blessing of clay (any other materials?) or scientific methods and discovery 
 			- is that like having things around the lab that'll turn to ethum when they find something cool?
 			- Ethum is made by Astarte to assist creatives 
 		- ethum can be used for any medium of art, are there different types of ethum? Or does it change at will between ink and paint and clay. 
