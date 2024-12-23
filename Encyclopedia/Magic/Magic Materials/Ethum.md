@@ -38,3 +38,4 @@ Cost: hard to be created has to be done by skilled members of either [[Order of 
 	- this can continue through generations, the Ethum will adopt the colors and patterning of its users over a long period of time
 	- This attument does not limit the ability of the Ethum to take other shapes or be used by other craftspeople but it “tints” the creation more towards what the Ethum has been historically used for
 - Ethum once in a shape can be reshaped by others however more skilled craftspeople’s work will require an equally skilled craftsperson to dismantle
+- Ethum is made by Astarte to assist creatives this can be gained either through having great passion to create or seek knowledge or stories, or through ritual to Astarte requesting a blessing.

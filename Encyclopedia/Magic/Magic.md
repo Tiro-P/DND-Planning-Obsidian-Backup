@@ -36,6 +36,7 @@ Types of magic ( how it's used )
 		- does ethum have it's own inherent power or is it just a conduit/amplifier for it's users. Like paint can be pretty but it isn't inherently artistic. Or is it like divine inspiration kinda like the magic equivalent of those bladeless “air multiplier” fans
 		- ethum crafting is either a religious style blessing of clay (any other materials?) or scientific methods and discovery 
 			- is that like having things around the lab that'll turn to ethum when they find something cool?
+			- Ethum is made by Astarte to assist creatives 
 		- ethum can be used for any medium of art, are there different types of ethum? Or does it change at will between ink and paint and clay. 
 - [[Isil]] 
 	- solidified moonlight **very dense magic**, magic made solid, not just solid magic. Can't be used to cast directly 
