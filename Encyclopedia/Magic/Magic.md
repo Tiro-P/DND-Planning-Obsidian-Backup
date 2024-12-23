@@ -33,10 +33,7 @@ Types of magic ( how it's used )
 			- Ethum can be blighted it will try to avoid it but it'll separate back into mundane material and it will be divested of its magic
 			- ik one of the main downsides of being blighted is you can't use ethum is it like a magnetic repelling force thing or does it get destroyed or just not cooperate?
 				- It actively avoids them like two same charged magnets and is uncooperative with them
-		- does ethum have it's own inherent power or is it just a conduit/amplifier for it's users. Like paint can be pretty but it isn't inherently artistic. Or is it like divine inspiration kinda like the magic equivalent of those bladeless “air multiplier” fans
-		- Ethum crafting is either a religious style blessing of clay (any other materials?) or scientific methods and discovery 
-			- is that like having things around the lab that'll turn to ethum when they find something cool?
-			- Ethum is made by Astarte to assist creatives 
+
 		- ethum can be used for any medium of art, are there different types of ethum? Or does it change at will between ink and paint and clay. 
 - [[Isil]] 
 	- solidified moonlight **very dense magic**, magic made solid, not just solid magic. Can't be used to cast directly 
@@ -66,12 +63,12 @@ Types of magic ( how it's used )
 	- are the Nirnaeth gatekeepy with it because of religion or tradition? Or are they business people keeping a monopoly?
 		- are they even gatekeepy?
 	- is the blood moon responsible for allowing the creation of the pearls that allow isil creation Kesk’s or an unrelated cujokra thing?
+		- can only be created 
 	- using it looks effortless and is fast enough to be useful in battle by a talented weaver
 	- can be created in rough shapes and refined from there, the doc didn't say if that's through magic or normal tools
 - non material magics
 	- empathy magic
-		- it's only use is healing, physical and non physical wounds
-		- can the empathy connection be used to detect lies or emotions? 
-		- are all balulu able to do it a little or do they have to train or unlock it somehow 
+		-  the empathy connection can be used to detect lies or emotions
+		- are all Balulu able to do it a little or do they have to train or unlock it somehow 
 		- balulu magic based on comfort and rejuvenation, polulu magic based on security, and warmth. 
 			- both can do either but they specialize a bit due to their situations
