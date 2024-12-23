@@ -14,10 +14,21 @@ Types of magic ( how it's used )
 	- a steadfast rule of existence that can't be directly used only worked with
 	- Examples: oaths in LoTR where swearing an oath bends fate itself to make it happen
 
-| Magic  | Type     | Interactions                   |
-| ------ | -------- | ------------------------------ |
-| Arcane |          |                                |
-| Ethum  | Material | Explodes on contact with Ichor |
+| Magic      | Type     | Interactions                   |
+| ---------- | -------- | ------------------------------ |
+| Arcane     |          |                                |
+| Ethum      | Material | Explodes on contact with Ichor |
+| Ichor      | Material |                                |
+| Forma      | Material |                                |
+| Heart Gems | Material |                                |
+| Isil       | Material |                                |
+| Dream      |          |                                |
+| Empathy    |          |                                |
+| Fate       |          |                                |
+| F          |          |                                |
+|            |          |                                |
+|            |          |                                |
+|            |          |                                |
 ## general magic ideas dump 
 ### non canonized 
 - questions
