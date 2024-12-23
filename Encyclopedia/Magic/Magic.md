@@ -14,21 +14,22 @@ Types of magic ( how it's used )
 	- a steadfast rule of existence that can't be directly used only worked with
 	- Examples: oaths in LoTR where swearing an oath bends fate itself to make it happen
 
-| Magic      | Type     | Interactions                   |
-| ---------- | -------- | ------------------------------ |
-| Arcane     |          |                                |
-| Ethum      | Material | Explodes on contact with Ichor |
-| Ichor      | Material |                                |
-| Forma      | Material |                                |
-| Heart Gems | Material |                                |
-| Isil       | Material |                                |
-| Dream      |          |                                |
-| Empathy    |          |                                |
-| Fate       |          |                                |
-| F          |          |                                |
-|            |          |                                |
-|            |          |                                |
-|            |          |                                |
+| Magic          | Type           | Interactions                   |
+| -------------- | -------------- | ------------------------------ |
+| Ethum          | Material       | Explodes on contact with Ichor |
+| Ichor          | Material       | Explodes on contact with Ethum |
+| Forma          | Material       |                                |
+| Heart Gems     | Material       |                                |
+| Isil           | Material       |                                |
+| Arcane         | Casting        |                                |
+| Dream          | Ritual         |                                |
+| Empathy        | Ritual         |                                |
+| Fate           | Rule           |                                |
+| Ichormancy     | Casting        |                                |
+| Isil weaving   | Ritual         |                                |
+| Leylines       | Rule           |                                |
+| Memory         | Casting/Deal   |                                |
+| Star Sculpting | Ritual/Casting |                                |
 ## general magic ideas dump 
 ### non canonized 
 - questions
