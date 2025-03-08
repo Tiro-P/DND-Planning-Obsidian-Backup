@@ -1,4 +1,4 @@
-# [[Secondhewn|Taluk]]
+**# [[Secondhewn|Taluk]]
 ## Words
 
 ## Additional rules/focuses
