@@ -9,6 +9,7 @@ dodge
 combat reflexes
 Agile maneuvers (cmb with dex)
 Natural spell Lets druids cast while wildshaped
+
 # Utility
 - [Armor Proficiency](https://www.aonprd.com/FeatDisplay.aspx?ItemName=Armor%20Proficiency,%20Light), comes in light, medium and heavy. adds proficiency for that type of armor, reducing its [[Magic & Misc Mechanics#Armor Penalties|Armor Penalty]] 
 # Melee
