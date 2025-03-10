@@ -12,7 +12,7 @@ Language: Fweedin
 | Plosive                |             |   d    |   k   |
 | Nasal                  |      m      |   n    |       |
 | Fricative              |      f      | θ (th) |       |
-| Approximant            |             | ɹ (r)  |       |
+| Tap                    |             | ɾ (r)  |       |
 | Lateral<br>Approximant |             |   l    |       |
 
 | Vowels     | Front  |  Back  |
@@ -27,28 +27,41 @@ Language: Fweedin
 ## Words
 ### Word Construction
 The base noun is always first then the adjectives then the ending
-noun-adj-ending
-adjectives do not have a class 
-- pre existing
-	- *Ekenurel-* → Vine serpent (Resonant)
-	- *fweed-* → fweedoon (Resonant)
-- New
-	- Nouns
-		- Resonant
-			- *Ekin-* →  Vine (Resonant)
-			- fwe’lith- (Resonant)
-		- Iresonant
-			- *Thel’d-* → Soil 
-	- Adjectives
-		- *Noorel-* → Serpentine adj
+noun-adj-ending 
+### Morphemes
+#### Noun 
+##### Resonant
+- Ekin- → Vine
+- Fweed- → Fweedoon
+- Fwe’lith- → Taluk
+- 
+##### Iresonant
+- Thel’d- → Soil
+#### Adj
+- -urel- → Serpentine, snake like
+- -eeren- → Positive, good
+- -efek- → Negative, bad
+#### Verb
+- nir → Meet
+#### Misc. Parts of Speech
+- Nireeren → Greeting (meet+good)
+- -elir- → Negator (not \_) attaches to the start of the thing it is negating, adj, noun or verb
+##### Question words
+- Dethel → Why
+- Deledith → When
+- Dekel → How
+- Delikoo → Where
+- Doothen → What
+- Doork → Who
+#### Prepositions 
+- 
+#### Pending
+greeting irresonant ones to our heartlands. home of the strider and keeper of our dead.
 - Pending English
 	- Greeting
-	- Dekeer- (Iresonant)
-	- Welcome
 	- Resonance
 	- Bluewoods
 	- Guide
-	- Taluk/firsthewn with fw
 	- Strider
 	- Fauna
 		- Deer
@@ -63,7 +76,7 @@ adjectives do not have a class
 		- Flower
 		- Fern
 - Pending Fweedin
-	1. nir → 
+	1. nir- → 
 	2. rikineer → 
 	3. thoorloolem → 
 	4. nemrenlindel → 
@@ -71,7 +84,7 @@ adjectives do not have a class
 	6. lethif→ 
 	7. remeenim → 
 	8. Thild- → 
-	9. fwethil- → 
+	9.  Fwethil-→ 
 	10. dekthirnen- → 
 	11. keendeth- → (iresonant)
 	12. keelekem- → (iresonant)
@@ -83,9 +96,18 @@ adjectives do not have a class
 	18. mikren → 
 	19. koordek- → (resonant)
 	20. -enfen → adj.
+	21. Dekeer- → (Iresonant)
 ## Additional rules/focuses
 - Plants specifically in and around the heartlands, have several categories based around their conductivity for magic. 
-- VSO adjectives precede nouns
+- Sentence structure
+	- Verb-Subject-Object-Question Indicator  
+		- Are we watching a movie? → Watching - a movie - we - are?
+		- you look at the tall running boy → running - boytall - lookat  - you 
+	- adjectives are attached to nouns before the ending
+	- Verbs are placed before the noun that they are related to
+	- Prepositions
+		-  stand alone in the middle when relating two nouns
+		- if they are modifying a verb then they attach to the end of it
 - mostly fusional with some agglutinative tendencies (mostly for naming things) 
 	- noun class based on Resonance
 	- Fw only exists in word initial and is only used with important words
@@ -97,18 +119,20 @@ adjectives do not have a class
 	- Dative case
 		- indirect object
 	- Genitive
-		- shows possession
+		- shows possession by turning the noun it is attached to into an adjective
+		- In this case they are merged into one word with the first noun in the word representing the possessor and the secondary being the noun possessed.
+		- Instead of Tyler’s green house it would be one word constructed tyler-house-green-gen
 
 | Number   | Case       | Resonant | Iresonant |
 | -------- | ---------- | -------- | --------- |
 | Singular | Accusative | -un      | -in       |
-| ^        | Nominative | -uɹ      | -iɹ       |
+| ^        | Nominative | -uɾ      | -iɾ       |
 | ^        | Dative     | -unu     | -ini      |
-| ^        | Genative   | -uɹu     | -iɹi      |
+| ^        | Genative   | -uɾu     | -iɾi      |
 | Plural   | Accusative | -ɛθ      | -ɪθ       |
-| ^        | Nominative | -ɛɹθ     | -ɪɹθ      |
+| ^        | Nominative | -ɛɾθ     | -ɪɾθ      |
 | ^        | Dative     | -ɛnɛθ    | -ɪnɪθ     |
-| ^        | Genative   | -ɛɹɛθ    | -ɪɹɪθ     |
+| ^        | Genative   | -ɛɾɛθ    | -ɪɾɪθ     |
 
 # [[Jodin]]
 Language: Jodak
