@@ -57,6 +57,7 @@ noun-adj-ending
 - 
 #### Pending
 greeting irresonant ones to our heartlands. home of the strider and keeper of our dead.
+Plants need water and light
 - Pending English
 	- Greeting
 	- Resonance
