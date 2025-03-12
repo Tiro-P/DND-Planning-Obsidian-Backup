@@ -54,7 +54,7 @@ noun-adj-ending
 - Doothen → What
 - Doork → Who
 #### Prepositions 
-- 
+- at, near, with , above, under, closer, away 
 #### Pending
 greeting irresonant ones to our heartlands. home of the strider and keeper of our dead.
 Plants need water and light
@@ -99,7 +99,6 @@ Plants need water and light
 	20. -enfen → adj.
 	21. Dekeer- → (Iresonant)
 ## Additional rules/focuses
-- Plants specifically in and around the heartlands, have several categories based around their conductivity for magic. 
 - Sentence structure
 	- Verb-Subject-Object-Question Indicator  
 		- Are we watching a movie? → Watching - a movie - we - are?
