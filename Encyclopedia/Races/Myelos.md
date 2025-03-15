@@ -6,9 +6,7 @@ creator:
 tags:
   - race
 ---
-born as gnarled creatures of humanoid shape that look like tree roots
-as they grow around age 2 they learn how to remove limbs and expose living nerve core that they can attach new limbs for
-When a Myelos dies it shrivels into a ball that looks like its made of tree roots, its common to carve this and wear it in memorial of the passed Myelos.
+Born as gnarled creatures of roughly humanoid shape, Myelos are able to remove their own body parts, exposing a living nerve core that can attach to body parts harvested from other creatures.
 ## Society Info
 - Age of Race:
 	- Created: 300BB
@@ -16,20 +14,33 @@ When a Myelos dies it shrivels into a ball that looks like its made of tree root
 - Home Region:
 	- [[Virullen]]
 - Capital and Cities:
-	- Their home city used to be [[Ruins of Krov|Krov]] however with its destruction they moved to [[Illureth]]
+	- Their former capital, [[Ruins of Krov|Krov]], was destroyed. 
+	- A majority of the population now lives in [[Illureth]]
 - Common Occupations:
-	- A Myelos can work any job, sometimes tailoring themselves to work efficiently
-	- [[Forma]] Technician is a job that is *almost* exclusively occupied by [[Myelos]]
+	- A Myelos is adaptable to any job, sometimes tailoring themselves to work efficiently
+	- Myelos are innately equipped to understand the mechanisms of organic life, and commonly work as public healers, private physicians, or apothecaries and herbalists. 
+	- [[Forma]] Technician is a job that is *almost* exclusively occupied by expert [[Myelos]] craftsmen. 
 - Standings with other races:
 	- The [[Myelos]] and [[Cha'rell]] are very close, regarding each other as siblings
 ## Description
-- Lifespan: Maximum of 150 years, 80 years on average, they loose elasticity as they age
+- Lifespan: Highest age is 150 years, 80 years on average
 - Physical Description:
 	- Myelos are born with a vaguely humanoid shape that looks like its made of snarled tree roots. about 2 years old they gain the ability to graft and from there they take wildly different appearances, ranging from 4-8ft tall and any shape imaginable.
+	- Since the advent of Forma, and their proximity to the Cha'rell, the average Myelos looks more like the other sentient races of the world, with exotic grafts becoming fashion/symbolic statements.
 - Temperament:
-	- most Myelos are naturally charismatic, and take great pride in their individuality
+	- Myelos tend to naturally adopt the behavioral and emotional characteristics of their grafts in a manner akin to how a [[Mippieps]] animal features may reflect in their personality. This has less effect on their personality as they age. 
+	- Early Myelos were bestial in their behavior, which after some internal conflicts between  tribes eventually developed into a strict and complex system of etiquette, until the fall of Krov. 
+	- After the destruction of Krov, and displacement to Illureth, the Myelos have largely come together as a single people, and are on friendly terms with other races. 
 - Affinities
-	- Myelos are very talented with biotech 
+	- Myelos have the ability to adapt nearly any kind of living tissue to themselves
+	- They are experts in the fields of biology, physiology and anatomy
+
+## Threads
+- Some groups use the same modifications like a uniform 
+- Their language, Mylotic, consists of rhythmic grunts and plosives, allowing many mouths to communicate. 
+- They have a cultural tradition of spontaneous coordinated song and dance
+	- This seems to suggest a (likely vestigial) hivemind relationship in the species
+- When a Myelos dies it shrivels into a shape similar in appearance to tree roots, its common to carve this into a statue or turn it into jewelry
 ## Race Stats
 **Humanoid (0)**
 **Medium (0)**
@@ -75,10 +86,7 @@ Myelos body parts age at a rate respective to the support systems in place for t
 - Forma Medium
 	- Parts fully submerged in medium will be preserved indefinitely 
 - Attaching a limb to you but don't interface with it 
-	- gives -2 Con until removed but incurs no Int damage
-
-
-
+	- gives -2 Con until removed but incurs no Int damage\
 ## Threads
 - some groups use the same modifications like a uniform.
 - They have a cultural tradition of spontaneous coordinated song and dance
