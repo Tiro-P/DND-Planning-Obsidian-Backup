@@ -86,12 +86,8 @@ Myelos body parts age at a rate respective to the support systems in place for t
 - Forma Medium
 	- Parts fully submerged in medium will be preserved indefinitely 
 - Attaching a limb to you but don't interface with it 
-	- gives -2 Con until removed but incurs no Int damage\
-## Threads
-- some groups use the same modifications like a uniform.
-- They have a cultural tradition of spontaneous coordinated song and dance
-	- This seems to suggest a (likely vestigial) hivemind relationship in the species
-- When a Myelos dies it shrivels into a ball that looks like its made of tree roots, its common to carve this into a statue or turn it into jewelry
+	- gives -2 Con until removed but incurs no Int damage
+
 ### Name Examples
 #idkq
 #### First
