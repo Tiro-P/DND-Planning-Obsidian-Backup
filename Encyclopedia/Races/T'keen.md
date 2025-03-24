@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-type: Race
-creator:
-  - Tataluk
 tags:
   - race
+Creator: [Astarte, Tataluk]
+Rarity: 2
+Location: ["[[The Hometree (biome)]]"]
 ---
 ## Society Info
 - Age of Race:
@@ -30,16 +30,16 @@ tags:
 - Affinities
 	- Sailing, T’keen are so used to being on a boat or in their tree that they find walking on solid ground slightly tricky
 ## Race Stats
-**Medium Humanoid**
-30 ft. movespeed
-**Standard**
-+2 Dex, +2 Int, -2 Wis 
-**Multi-Armed (8 RP)**
-T’keen have two extra arms and can wield extra weapons (at penalties see two-weapon fighting on combat page for more info) and can use it’s extra hands to perform free/other actions
-**Prehensile Tails (4 RP)**
-Members of this race have 2 long, flexible tails that can be used to carry objects. The race cannot wield weapons with their tails, but they can retrieve small, stowed objects carried on their persons as a swift action.
-**Seafarer’s Balance (-2 RP)**
-This race is naturally akin to sea life or life off the ground and thus receive penalties when they are on solid ground. When first standing on solid ground after an extended period of time either off ground or on the sea, this race is treated flat-footed for 5 minutes as their legs readjust to solid ground. This race also receives a -2 penalty to dexterity for as long as they remain on solid ground.
+- **Medium Humanoid**
+	30 ft. move speed
+- **Standard**
+	+2 Dex, +2 Int, -2 Wis 
+- **Multi-Armed (8 RP)**
+	T’keen have two extra arms and can wield extra weapons (at penalties see two-weapon fighting on combat page for more info) they can also use their extra hands to perform free or very simple actions
+- **Prehensile Tails (4 RP)**
+	Members of this race have 2 long, flexible tails that can be used to carry objects. The race cannot wield weapons with their tails, but they can retrieve small, stowed objects carried on their persons as a swift action.
+- **Seafarer’s Balance (-2 RP)**
+	This race is naturally akin to sea life or life off the ground and thus receive penalties when they are on solid ground. When first standing on solid ground after an extended period of time either off ground or on the sea, this race is treated flat-footed for 5 minutes as their legs readjust to solid ground. This race also receives a -2 penalty to dexterity for as long as they remain on solid ground.
 ## Threads
 - T’keen are great sailors but rely heavily on [[Shuppies]] to navigate due to the odd nature of Aurelia
 ### Name Examples

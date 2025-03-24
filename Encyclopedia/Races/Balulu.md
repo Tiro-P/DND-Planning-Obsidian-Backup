@@ -1,14 +1,14 @@
 ---
 dg-publish: true
-type: Race
-subType: 
-creator: 
 tags:
   - race
+Creator: [Astarte]
+Rarity: 2
+Location: ["[[The Rolling Plains]]"]
 ---
 ## Society Info
 - Age of Race:
-	- Created:100AB
+	- Created: 100AB
 	- Age as of current day: 720 years
 - Home Region:
 	- [[The Rolling Plains]]
@@ -30,14 +30,14 @@ tags:
 - Affinities
 	- *Healing*, hosting, good quality politics
 ## Race Stats
-**Large Humanoid (7 RP)** 
-Large races take a –1 size penalty to their AC, a –1 size penalty on attack rolls, a +1 bonus on combat maneuver checks and to their CMD, and a –4 size penalty on Stealth checks. A Large creature takes up a space that is 10 feet by 10 feet and has a reach of 5 feet and a move speed of 30 ft.
-**Standard and Large (0 RP)**
-+2 Str, -4 Dex, +2 Con, +2 Char
-**Natural Armor (2 RP)** 
-+1 natural armor bonus to AC
-**Skill Training (1 RP)** 
-Heal and Sense Motive are always class skills for this race
+- **Large Humanoid (7 RP)** 
+	Large races take a –1 size penalty to their AC, a –1 size penalty on attack rolls, a +1 bonus on combat maneuver checks and to their CMD, and a –4 size penalty on Stealth checks. A Large creature takes up a space that is 10 feet by 10 feet and has a reach of 5 feet and a move speed of 30 ft.
+- **Standard and Large (0 RP)**
+	+2 Str, -4 Dex, +2 Con, +2 Char
+- **Natural Armor (2 RP)** 
+	+1 natural armor bonus to AC
+- **Skill Training (1 RP)** 
+	Heal and Sense Motive are always class skills for this race
 ## Threads
 - After [[The Glass Wars]] a portion of the Balulu made their way to [[Tastora]] to help the [[Secondhewn]] heal the survivors of the [[Akari]]
 ### Name Examples

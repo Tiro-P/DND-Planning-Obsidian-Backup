@@ -1,9 +1,4 @@
-# [[Secondhewn|Taluk]]
-## Words
-
-## Additional rules/focuses
-# [[Fweedoon]]
-Language: Fweedin
+The language of the [[Fweedoon]] spoken also be traders who frequent the [[The Heartlands]]
 ## Sounds
 *Graphemes in parenthesis where applicable* 
 
@@ -55,7 +50,7 @@ noun-adj-ending
 - Doork → Who
 #### Prepositions 
 - at, near, with , above, under, closer, away 
-#### Pending
+### Pending
 greeting irresonant ones to our heartlands. home of the strider and keeper of our dead.
 Plants need water and light
 - Pending English
@@ -133,89 +128,3 @@ Plants need water and light
 | ^        | Nominative | -ɛɾθ     | -ɪɾθ      |
 | ^        | Dative     | -ɛnɛθ    | -ɪnɪθ     |
 | ^        | Genative   | -ɛɾɛθ    | -ɪɾɪθ     |
-
-# [[Jodin]]
-Language: Jodak
-## Sounds
-*Graphemes in parenthesis where applicable*
-
-| Consomants |     |
-| ---------- | --- |
-|            |     |
-
-| Vowels |     |
-| ------ | --- |
-|        |     |
-
-## Words
-### Word Construction
-
-## Additional rules/focuses
-- non agglutinative 
-- OVS adjectives follow nouns
-# [[Felaris]]
-## Sounds
-*Graphemes in parenthesis where applicable*
-
-| Consomants |     |
-| ---------- | --- |
-|            |     |
-
-| Vowels |     |
-| ------ | --- |
-|        |     |
-
-## Words
-### Word Construction
-
-## Additional rules/focuses
-# [[Bolints]]
-## Sounds
-*Graphemes in parenthesis where applicable*
-
-| Consomants |     |
-| ---------- | --- |
-|            |     |
-
-| Vowels |     |
-| ------ | --- |
-|        |     |
-
-## Words
-### Word Construction
-
-## Additional rules/focuses
-# [[T'keen]]
-## Sounds
-*Graphemes in parenthesis where applicable*
-
-| Consomants |     |
-| ---------- | --- |
-|            |     |
-
-| Vowels |     |
-| ------ | --- |
-|        |     |
-
-## Words
-### Word Construction
-
-## Additional rules/focuses
-# [[Starborn]]
-## Sounds
-*Graphemes in parenthesis where applicable*
-
-| Consomants |     |
-| ---------- | --- |
-|            |     |
-
-| Vowels |     |
-| ------ | --- |
-|        |     |
-
-
-### Word Construction
-
-## Additional rules/focuses
-
-

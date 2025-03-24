@@ -1,10 +1,12 @@
 ---
 dg-publish: true
-type: Race
-creator:
-  - Astarte
 tags:
   - race
+Creator:
+  - Kesk
+Rarity: 2
+Location:
+  - "[[Virullen]]"
 ---
 ## Society Info
 - Age of Race:

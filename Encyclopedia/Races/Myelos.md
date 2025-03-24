@@ -1,10 +1,12 @@
 ---
 dg-publish: true
-type: Race
-creator:
-  - Kesk
 tags:
   - race
+Creator:
+  - Kesk
+Rarity: 4
+Location:
+  - "[[Virullen]]"
 ---
 Born as gnarled creatures of roughly humanoid shape, Myelos are able to remove their own body parts, exposing a living nerve core that can attach to body parts harvested from other creatures.
 ## Society Info
@@ -42,17 +44,17 @@ Born as gnarled creatures of roughly humanoid shape, Myelos are able to remove t
 	- This seems to suggest a (likely vestigial) hivemind relationship in the species
 - When a Myelos dies it shrivels into a shape similar in appearance to tree roots, its common to carve this into a statue or turn it into jewelry
 ## Race Stats
-**Humanoid (0)**
-**Medium (0)**
-**Slow Speed (-1RP)**
-20ft
-**Flexible (2 RP)**
-+2 CON +2 INT 
-**Skill Training (1 RP)**
-Myelos get both Heal and craft (harvest) 
-**Graftling (8 RP)**
-unique functioning body see below
-this race uses INT for Heal
+- **Humanoid (0)**
+- **Medium (0)**
+- **Slow Speed (-1RP)**
+	20ft
+- **Flexible (2 RP)**
+	+2 CON +2 INT 
+- **Skill Training (1 RP)**
+	Myelos get both Heal and craft (harvest) 
+- **Graftling (8 RP)**
+	unique functioning body see below
+	this race uses INT for the Heal skill
 ### Grafting
 Myelos body parts age at a rate respective to the support systems in place for their organs
 #### Checks

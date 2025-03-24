@@ -9,7 +9,8 @@ fields:
         "2": Tataluk
         "3": Cujokra
         "4": Kesk
-        "5": Muerin
+        "5": Hysteria
+        "6": Muerin
     path: ""
     id: bMlGLI
   - name: Rarity
@@ -25,7 +26,7 @@ fields:
     options: {}
     path: ""
     id: INPSnr
-version: "2.8"
+version: "2.9"
 limit: 20
 mapWithTag: false
 icon: user
