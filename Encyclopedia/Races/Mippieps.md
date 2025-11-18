@@ -1,9 +1,12 @@
 ---
 dg-publish: true
-type: Race
-creator: 
 tags:
   - race
+Creator:
+  - Cujokra
+Rarity: 3
+Location:
+  - "[[Leafglen]]"
 ---
 ## Society Info
 - Age of Race: 
@@ -57,7 +60,7 @@ tags:
 - **Hold Breath (1 RP)**
 	Members of this race can hold their breath for a number of rounds equal to four times their Constitution score before risking drowning or suffocating
 ## Threads
-- Mippieps have a caste system where they are sorted by the power of the animal they have traits from
+- Mippieps have a caste like system where they are socially sorted by the power of the animal they resemble
 ### Name Examples
 #### First
 - [ ] 

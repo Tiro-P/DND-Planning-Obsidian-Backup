@@ -1,13 +1,16 @@
 ---
 dg-publish: true
-type: Race
-subType: 
 creator:
   - Cujokra
 tags:
   - race
+Creator:
+  - Cujokra
+Rarity: 4
+Location:
+  - "[[Pillar Wastes]]"
 ---
-## World Info
+## Society Info
 - Age of Race:
 	- Created: 300 BB
 	- Age as of current day: 1120 years
@@ -33,7 +36,8 @@ tags:
 	- Hand to hand combat, some fighters sharpen their teeth into fangs and their nails into claws
 	- [[Isil weaving]], almost immediately after they are born female Nirnaeth are given a intricate branching [[Isil]] tattoo on their face that allows them to utilize [[Isil weaving]] unfortunately this comes with the curse of the [[Tarculu]]
 	- Apparently they are good musicians as well
-
+## Race Stats
+#idkmax #idkmaia #idktrent
 ## Threads
 - one out of every one hundred Nirnaeth females with the ability to use [[Isil weaving]] will become a [[Tarculu]], yet they keep doing it
 - the [[Nirnaeth Elder Women]] are kind of shifty

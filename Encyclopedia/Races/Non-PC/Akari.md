@@ -1,10 +1,10 @@
 ---
 dg-publish: true
-type: Race
-creator:
-  - Kesk
 tags:
   - race
+Creator: [Kesk]
+Rarity: 5
+Location: ["[[The Desolation]]"]
 ---
 ## Society Info
 - Age of Race:

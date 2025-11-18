@@ -1,10 +1,11 @@
 ---
 dg-publish: true
-type: Race
-subType: 
-creator: 
 tags:
   - race
+Creator:
+  - Astarte
+Rarity: 4
+Location: Anywhere
 ---
 ## World Info
 - Home Region:

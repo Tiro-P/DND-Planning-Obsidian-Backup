@@ -1,9 +1,4 @@
-# [[Secondhewn|Taluk]]
-## Words
-
-## Additional rules/focuses
-# [[Fweedoon]]
-Language: Fweedin
+The language of the [[Fweedoon]] spoken also be traders who frequent the [[The Heartlands]]
 ## Sounds
 *Graphemes in parenthesis where applicable* 
 
@@ -20,6 +15,7 @@ Language: Fweedin
 | Close      | i (ee) | u (oo) |
 | Near-Close | ɪ (i)  |        |
 | Open-Mid   | ɛ (e)  |        |
+Edefiklmnort”!();:,.?
 #### Allophone rules
 - \[f\] → f͡w(fw) \#w__
 	- \[f] is always the mix /f͡w/ when in word initial
@@ -37,6 +33,7 @@ noun-adj-ending
 - 
 ##### Iresonant
 - Thel’d- → Soil
+- Rikineer- → Traveler / foreigner 
 #### Adj
 - -urel- → Serpentine, snake like
 - -eeren- → Positive, good
@@ -44,7 +41,7 @@ noun-adj-ending
 #### Verb
 - nir → Meet
 #### Misc. Parts of Speech
-- Nireeren → Greeting (meet+good)
+- Nireeren → Greeting (meet+good) (exclamation)
 - -elir- → Negator (not \_) attaches to the start of the thing it is negating, adj, noun or verb
 ##### Question words
 - Dethel → Why
@@ -55,7 +52,7 @@ noun-adj-ending
 - Doork → Who
 #### Prepositions 
 - at, near, with , above, under, closer, away 
-#### Pending
+### Pending
 greeting irresonant ones to our heartlands. home of the strider and keeper of our dead.
 Plants need water and light
 - Pending English
@@ -78,26 +75,25 @@ Plants need water and light
 		- Fern
 - Pending Fweedin
 	1. nir- → 
-	2. rikineer → 
-	3. thoorloolem → 
-	4. nemrenlindel → 
-	5. rilleer→ 
-	6. lethif→ 
-	7. remeenim → 
-	8. Thild- → 
-	9.  Fwethil-→ 
-	10. dekthirnen- → 
-	11. keendeth- → (iresonant)
-	12. keelekem- → (iresonant)
-	13. firil → 
-	14. limeer → 
-	15. kereek → 
-	16. leken → 
-	17. thirthefek → 
-	18. mikren → 
-	19. koordek- → (resonant)
-	20. -enfen → adj.
-	21. Dekeer- → (Iresonant)
+	2. thoorloolem → 
+	3. nemrenlindel → 
+	4. rilleer→ 
+	5. lethif→ 
+	6. remeenim → 
+	7. Thild- → 
+	8.  Fwethil-→ 
+	9. dekthirnen- → 
+	10. keendeth- → (iresonant)
+	11. keelekem- → (iresonant)
+	12. firil → 
+	13. limeer → 
+	14. kereek → 
+	15. leken → 
+	16. thirthefek → 
+	17. mikren → 
+	18. koordek- → (resonant)
+	19. -enfen → adj.
+	20. Dekeer- → (Iresonant)
 ## Additional rules/focuses
 - Sentence structure
 	- Verb-Subject-Object-Question Indicator  
@@ -133,89 +129,3 @@ Plants need water and light
 | ^        | Nominative | -ɛɾθ     | -ɪɾθ      |
 | ^        | Dative     | -ɛnɛθ    | -ɪnɪθ     |
 | ^        | Genative   | -ɛɾɛθ    | -ɪɾɪθ     |
-
-# [[Jodin]]
-Language: Jodak
-## Sounds
-*Graphemes in parenthesis where applicable*
-
-| Consomants |     |
-| ---------- | --- |
-|            |     |
-
-| Vowels |     |
-| ------ | --- |
-|        |     |
-
-## Words
-### Word Construction
-
-## Additional rules/focuses
-- non agglutinative 
-- OVS adjectives follow nouns
-# [[Felaris]]
-## Sounds
-*Graphemes in parenthesis where applicable*
-
-| Consomants |     |
-| ---------- | --- |
-|            |     |
-
-| Vowels |     |
-| ------ | --- |
-|        |     |
-
-## Words
-### Word Construction
-
-## Additional rules/focuses
-# [[Bolints]]
-## Sounds
-*Graphemes in parenthesis where applicable*
-
-| Consomants |     |
-| ---------- | --- |
-|            |     |
-
-| Vowels |     |
-| ------ | --- |
-|        |     |
-
-## Words
-### Word Construction
-
-## Additional rules/focuses
-# [[T'keen]]
-## Sounds
-*Graphemes in parenthesis where applicable*
-
-| Consomants |     |
-| ---------- | --- |
-|            |     |
-
-| Vowels |     |
-| ------ | --- |
-|        |     |
-
-## Words
-### Word Construction
-
-## Additional rules/focuses
-# [[Starborn]]
-## Sounds
-*Graphemes in parenthesis where applicable*
-
-| Consomants |     |
-| ---------- | --- |
-|            |     |
-
-| Vowels |     |
-| ------ | --- |
-|        |     |
-
-
-### Word Construction
-
-## Additional rules/focuses
-
-

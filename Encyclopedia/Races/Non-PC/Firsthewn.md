@@ -1,9 +1,10 @@
 ---
 dg-publish: true
-type: Race
-creator: Tataluk
 tags:
   - race
+Creator: [Tataluk]
+Rarity: 5
+Location: ["[[Tatalis]]"]
 ---
 ## Society Info
 - Age of Race:

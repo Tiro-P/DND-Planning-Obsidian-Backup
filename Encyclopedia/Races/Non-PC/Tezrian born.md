@@ -1,9 +1,11 @@
 ---
 dg-publish: true
-type: Race
-creator: 
 tags:
   - race
+Creator:
+  - Muerin
+Rarity: 5
+Location: Anywhere
 ---
 Formed from the essence of the destroyed [[Tezrian]]s and the god that made them
 ## Society Info
