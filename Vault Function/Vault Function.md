@@ -7,7 +7,6 @@
 	- [[Avatars]]
 	- [[Biome]]
 	- [[Capitals]]
-	- **Dictionary**
 	- [[Fauna]]
 	- [[Magics]]
 	- [[Organizations]]
