@@ -1,7 +1,6 @@
 ---
 dg-publish: true
 ---
-
 ## Combat Maneuver Table
 
 | **CM Stats**                                                                                                                                                                                                             | **Description**                                                                                                                                                                                                                          |                                                                                                                                                                                                    |
