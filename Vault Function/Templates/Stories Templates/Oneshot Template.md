@@ -17,7 +17,6 @@ Plot basis:
 	- Professional:
 	- Witness:
 	- ne'er-do-well: 
-
 # Plot
 ## Start
 - Establishing scene/ Inciting incident:
